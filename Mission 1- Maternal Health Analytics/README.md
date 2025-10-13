@@ -54,7 +54,7 @@ sns.heatmap(corr, annot=True, cmap='vlag')
 plt.title('Correlation Matrix of Vital Signs')
 plt.show()
 ```
-![Exploratory Analysis](./Images/Exploratory%205.png)
+![Exploratory Analysis](./Images/Exploratory%205%20.png)
 
 ```python
  # Complication Rate by Region
