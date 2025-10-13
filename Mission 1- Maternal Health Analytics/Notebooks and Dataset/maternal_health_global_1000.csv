@@ -1,0 +1,1001 @@
+Country,Region,Age,SystolicBP,DiastolicBP,BloodSugar_mg_dL,BodyTemp_C,HeartRate_bpm,FacilityDistance_km,AntenatalVisits,RiskLevel,Complication,ReportDate
+Brazil,South America,25,112,69,55,37.1,74,3.4,3,low,no,10/18/2023
+Saudi Arabia,Middle East,24,104,75,98,37.2,97,2.2,7,low,no,9/26/2021
+Philippines,Asia,26,105,79,167,36.1,89,12.3,3,medium,no,7/4/2020
+Egypt,Africa,26,118,60,49,37,55,4.9,4,low,no,5/26/2024
+Mexico,North America,23,129,61,48,36.5,74,15,7,low,no,2/3/2022
+Turkey,Europe,25,95,85,100,36.7,73,5.2,4,low,no,9/12/2022
+Brazil,South America,15,123,76,126,36.7,75,2.5,6,medium,no,7/23/2020
+Argentina,South America,32,130,71,71,36.6,92,1.4,5,low,no,9/12/2020
+Canada,North America,30,154,69,41,37.4,82,0.5,11,medium,no,11/17/2022
+Egypt,Africa,27,101,70,103,35.9,65,8.1,3,low,no,9/6/2024
+Egypt,Africa,29,114,79,108,35.7,77,2.8,4,low,no,10/15/2024
+Japan,Asia,30,125,83,143,35.6,89,0.1,2,medium,no,5/2/2024
+Turkey,Europe,24,141,53,110,37.1,79,12.9,3,medium,no,7/8/2024
+Pakistan,Asia,25,115,95,115,36.2,74,0.7,0,medium,no,5/14/2024
+Mexico,North America,31,142,94,82,36.7,86,10.2,5,high,yes,3/5/2023
+Japan,Asia,29,85,50,163,36.5,101,7.4,5,medium,no,10/3/2021
+India,Asia,40,97,91,78,36.2,88,13.7,2,medium,no,8/10/2024
+Australia,Oceania,38,126,91,72,37,98,2.6,3,medium,no,8/7/2021
+Turkey,Europe,34,95,78,144,36.5,75,0.3,6,medium,no,9/11/2021
+Kenya,Africa,23,99,62,46,36.5,82,9.1,3,low,no,11/15/2021
+Japan,Asia,25,111,90,40,36.7,82,6.6,4,low,no,12/2/2023
+Germany,Europe,22,134,75,94,37,83,10.4,5,low,no,6/5/2022
+United Kingdom,Europe,30,86,85,90,36.1,87,2.7,2,low,no,2/11/2021
+Kenya,Africa,15,123,105,83,37,71,3.3,4,high,yes,3/8/2022
+Turkey,Europe,25,139,81,120,37.3,90,1.3,4,low,no,11/13/2024
+Nigeria,Africa,26,116,67,63,35.9,62,1.7,6,low,no,12/11/2023
+Germany,Europe,19,113,74,92,36.7,66,8.6,3,low,no,10/17/2024
+Australia,Oceania,33,127,69,79,36.4,108,10.7,3,low,no,11/15/2021
+Germany,Europe,21,117,83,63,36.9,76,3,5,low,no,6/1/2021
+Russia,Europe,30,145,68,88,36,91,14.1,4,medium,no,1/19/2023
+Ethiopia,Africa,45,100,72,116,37.4,102,0.3,5,medium,no,2/16/2022
+South Africa,Africa,18,119,63,154,35.8,54,14,6,medium,no,8/19/2023
+Bangladesh,Asia,27,124,76,107,36.5,96,8.4,5,low,no,11/13/2024
+Philippines,Asia,26,113,80,40,36.8,90,2.3,1,low,no,8/23/2024
+Philippines,Asia,24,80,50,89,36.3,102,16.9,5,low,no,6/22/2025
+Argentina,South America,33,117,81,91,36.2,68,2.3,4,low,no,3/23/2022
+Germany,Europe,35,136,77,118,36.7,99,12.2,0,low,no,2/4/2021
+Canada,North America,33,134,69,96,36.6,73,5.9,5,low,no,6/11/2023
+Saudi Arabia,Middle East,24,126,102,128,36.6,95,7.2,3,medium,no,1/18/2020
+Russia,Europe,43,100,90,102,37,82,10.4,4,medium,no,10/18/2021
+India,Asia,17,127,65,137,36.4,91,10.1,4,medium,no,6/10/2021
+United States,North America,22,110,88,77,36.8,83,2.9,6,low,no,9/17/2022
+Argentina,South America,29,126,93,94,36.3,60,8.2,5,medium,no,7/13/2020
+Brazil,South America,29,122,80,115,36.2,50,7.7,2,low,no,9/25/2020
+Turkey,Europe,31,102,82,73,36.5,85,6.3,2,low,no,2/14/2023
+Indonesia,Asia,37,104,82,66,36.4,79,3.8,4,low,no,11/7/2023
+Brazil,South America,27,126,53,71,36.4,87,6.3,6,low,no,5/10/2023
+Ghana,Africa,29,116,76,68,37.2,79,16.8,5,low,no,9/3/2023
+Pakistan,Asia,24,105,75,106,36.5,106,3.2,5,low,no,7/2/2020
+Russia,Europe,32,103,95,40,36.3,85,12.2,6,medium,yes,9/19/2021
+China,Asia,26,115,82,43,36.6,77,1.3,4,low,no,11/7/2021
+Ghana,Africa,26,148,74,146,36.7,86,0.3,3,high,yes,6/5/2024
+Indonesia,Asia,31,111,77,68,36,77,24.7,3,low,no,7/3/2023
+Turkey,Europe,34,120,90,96,36.5,83,8.2,5,low,no,10/25/2021
+Kenya,Africa,15,122,76,45,36.4,67,8.4,4,medium,no,5/2/2022
+Saudi Arabia,Middle East,30,100,70,93,36.5,82,8.6,4,low,no,6/23/2025
+Philippines,Asia,26,88,75,68,37,76,13.4,3,low,no,1/26/2023
+Brazil,South America,34,102,89,43,36.7,69,7.4,3,low,no,1/22/2024
+Germany,Europe,26,124,84,130,37.2,106,9.9,1,low,no,2/6/2021
+Mexico,North America,36,122,79,125,36.6,69,1.4,2,low,no,11/14/2021
+Philippines,Asia,24,133,80,87,37.5,82,10.9,7,low,no,4/7/2024
+India,Asia,15,122,71,120,36.4,72,3.6,2,medium,no,11/22/2023
+China,Asia,34,118,76,147,36.2,86,9,4,medium,no,9/2/2023
+Ethiopia,Africa,23,109,70,113,36.9,67,5.3,3,low,no,7/11/2023
+Pakistan,Asia,19,136,74,104,37.3,92,8.8,3,low,no,6/21/2023
+Ghana,Africa,28,103,94,96,35.9,106,8.5,7,medium,yes,1/3/2023
+Mexico,North America,27,100,65,109,36.5,72,3.3,3,low,no,5/9/2021
+Pakistan,Asia,33,130,70,79,36.3,97,5.2,2,low,no,11/8/2022
+Kenya,Africa,33,96,63,82,36.7,77,8.8,1,low,no,12/26/2024
+United Kingdom,Europe,29,163,60,104,36.6,100,5.4,4,medium,no,4/11/2022
+Australia,Oceania,23,121,76,76,37.3,108,0.4,2,low,no,5/18/2023
+South Africa,Africa,30,126,71,79,36.5,79,13.6,4,low,no,11/1/2023
+Pakistan,Asia,29,105,99,90,37.3,64,0.4,7,medium,yes,9/15/2025
+Australia,Oceania,31,114,75,125,36.4,93,13.2,4,low,no,12/4/2022
+Ghana,Africa,23,112,93,56,37.1,85,8.1,5,medium,no,3/4/2022
+Germany,Europe,26,110,90,113,36.7,88,5.6,8,low,no,4/10/2024
+Kenya,Africa,31,131,75,114,37.5,78,0.2,4,low,no,8/11/2024
+South Africa,Africa,35,112,103,114,35.9,71,1.9,3,medium,no,3/18/2023
+Pakistan,Asia,34,138,81,66,36,96,3.5,7,low,no,3/23/2022
+China,Asia,28,168,96,40,37.5,86,2,4,high,yes,9/15/2022
+Bangladesh,Asia,25,115,95,107,36.2,65,3.4,5,medium,no,5/3/2023
+Philippines,Asia,30,123,83,96,36.3,90,6,8,low,no,10/7/2024
+Mexico,North America,21,127,87,120,36.2,88,2.4,4,low,no,1/7/2024
+China,Asia,23,153,85,69,37.2,78,5.2,3,medium,no,7/17/2020
+Canada,North America,37,119,64,113,36,101,12,1,low,no,7/22/2022
+Russia,Europe,30,105,79,122,36.6,75,9.7,1,low,no,6/20/2022
+Mexico,North America,26,97,91,87,36.5,80,4.5,8,medium,no,6/27/2025
+Turkey,Europe,33,119,96,103,37.1,91,0.9,5,medium,no,3/24/2023
+Bangladesh,Asia,36,112,69,101,36.3,83,6,3,low,no,3/16/2022
+France,Europe,25,156,84,65,36.8,65,0.8,5,medium,no,10/16/2020
+Ghana,Africa,25,152,80,106,36,84,6.2,4,medium,no,11/8/2023
+Philippines,Asia,25,101,77,139,37.7,77,5.3,3,medium,yes,9/3/2020
+Turkey,Europe,34,107,82,91,36.5,92,9.8,1,low,no,1/20/2024
+Japan,Asia,34,121,81,46,36.6,84,5.2,5,low,no,7/15/2024
+Russia,Europe,36,145,84,69,37.4,83,18.3,3,medium,no,12/1/2022
+France,Europe,34,121,95,40,36.3,69,12.8,4,medium,no,11/10/2022
+Indonesia,Asia,18,108,87,129,37.4,79,8.4,9,low,no,10/2/2024
+Philippines,Asia,30,119,82,113,36.4,94,4.3,7,low,no,7/7/2021
+France,Europe,22,109,100,75,36.9,73,0.6,5,medium,no,8/14/2021
+Nigeria,Africa,25,131,91,47,36.3,82,10.7,4,medium,yes,6/16/2025
+Russia,Europe,29,107,77,65,35.9,71,3.6,1,low,no,8/27/2024
+Brazil,South America,33,111,63,71,36.8,68,12,7,low,no,1/15/2024
+Indonesia,Asia,23,141,66,93,36.9,81,7.4,2,medium,no,1/7/2021
+Japan,Asia,15,106,89,92,35.9,84,7.4,7,medium,no,9/13/2021
+Nigeria,Africa,29,94,70,130,36.4,106,8.6,4,low,no,12/25/2020
+Germany,Europe,44,122,66,69,37.2,77,0.5,6,medium,no,4/10/2021
+Mexico,North America,27,114,69,45,36.9,81,1.1,5,low,no,3/9/2024
+Japan,Asia,28,129,70,55,36.4,67,1.3,6,low,no,6/9/2021
+Egypt,Africa,39,126,88,89,36.3,89,11.3,6,low,no,10/6/2023
+Argentina,South America,32,119,76,68,37.6,87,0.7,2,medium,no,12/24/2021
+Ethiopia,Africa,29,119,62,81,35.9,100,0.1,5,low,no,12/25/2022
+Mexico,North America,31,107,78,76,36.6,95,8.2,5,low,no,9/12/2025
+India,Asia,30,122,81,120,35.9,86,3.5,7,low,no,10/23/2021
+India,Asia,21,136,72,72,37.3,76,2.7,3,low,no,11/20/2022
+Nigeria,Africa,20,102,92,79,36.6,84,2.2,2,medium,no,4/20/2022
+United States,North America,39,120,73,112,36.7,81,9,5,low,no,9/22/2020
+South Africa,Africa,29,139,91,73,38,93,0.8,7,high,yes,5/14/2022
+Brazil,South America,29,129,85,103,36.3,92,12.1,4,low,no,7/27/2022
+Indonesia,Asia,27,144,89,100,37.5,78,1.8,5,medium,no,3/20/2023
+Brazil,South America,33,110,65,94,36.4,64,6.4,4,low,no,3/27/2024
+Indonesia,Asia,43,87,79,56,36.5,98,1,6,medium,no,12/7/2023
+Mexico,North America,31,124,77,127,37.9,89,7.2,2,medium,no,3/8/2020
+Germany,Europe,24,127,61,157,36.5,78,7,5,medium,no,8/8/2023
+Kenya,Africa,27,145,91,90,35.9,89,3.2,3,high,yes,6/8/2020
+Nigeria,Africa,34,141,68,59,36.7,83,0.9,6,medium,no,9/2/2023
+Bangladesh,Asia,25,130,71,91,36.5,98,3.4,4,low,no,9/14/2023
+Canada,North America,33,134,66,120,36.8,59,7.2,4,low,no,8/10/2021
+Canada,North America,15,117,86,72,36.5,77,10,7,medium,no,1/18/2024
+Japan,Asia,27,98,60,86,37.7,101,12.7,1,medium,no,6/18/2024
+United States,North America,32,122,85,100,36.9,89,1.7,2,low,no,4/18/2024
+India,Asia,36,138,91,126,36.1,103,13.2,5,medium,no,4/16/2022
+Germany,Europe,23,132,84,113,36.7,67,4.7,2,low,no,3/20/2023
+Mexico,North America,19,135,87,115,36.2,95,5.2,5,low,no,12/5/2024
+Australia,Oceania,26,112,87,77,36.5,94,10.4,4,low,no,9/20/2022
+India,Asia,21,115,67,102,36.1,62,1.8,0,low,no,2/5/2024
+Nigeria,Africa,27,129,95,68,37.7,78,8,3,high,no,1/20/2020
+India,Asia,28,110,72,115,36.3,81,9.2,3,low,no,10/23/2020
+United States,North America,20,111,77,125,36.9,63,7.1,1,low,no,3/10/2024
+Philippines,Asia,33,125,74,107,36.4,79,2.8,3,low,no,4/17/2024
+China,Asia,27,134,84,79,36,92,8.7,5,low,no,4/13/2024
+India,Asia,34,116,72,84,36.7,77,10,6,low,no,6/17/2025
+Nigeria,Africa,17,99,79,144,36.8,85,4.1,2,medium,no,1/18/2020
+United States,North America,22,107,63,79,36.9,85,5.1,3,low,no,1/13/2021
+Canada,North America,31,124,92,121,35.3,82,8.7,4,medium,no,2/17/2024
+China,Asia,23,123,86,100,36,74,4.3,4,low,no,4/15/2021
+Brazil,South America,27,124,74,80,37.1,90,2.8,4,low,no,7/26/2023
+Indonesia,Asia,28,129,72,50,36.1,63,8,5,low,no,6/12/2023
+Philippines,Asia,29,120,86,96,36.7,82,1.4,0,low,no,11/10/2020
+Philippines,Asia,24,125,70,93,36,99,2.5,3,low,no,9/13/2021
+South Africa,Africa,29,119,80,144,37,77,14.3,5,medium,no,7/11/2023
+France,Europe,23,141,92,64,37.1,73,8.3,6,high,yes,12/3/2024
+Argentina,South America,32,146,68,159,37,91,4.5,8,high,no,5/22/2023
+Brazil,South America,27,99,82,101,37.1,84,5.5,3,low,no,6/10/2023
+Ethiopia,Africa,29,115,82,101,37.4,91,4,4,low,no,10/11/2022
+Saudi Arabia,Middle East,43,121,77,72,36,82,7.4,3,medium,no,9/6/2021
+Pakistan,Asia,21,115,72,99,36.2,53,14.9,4,low,no,1/1/2020
+United States,North America,36,152,93,104,37,96,3.9,4,high,no,11/6/2022
+Canada,North America,15,124,71,118,37.2,107,8.9,5,medium,no,9/5/2020
+Brazil,South America,16,106,56,61,36.3,97,0.2,3,medium,no,6/7/2021
+France,Europe,21,131,86,132,36.2,50,4.5,2,low,no,12/22/2022
+Philippines,Asia,21,125,64,101,36.3,87,4.2,5,low,no,4/12/2022
+Egypt,Africa,29,125,86,108,35.8,76,9.7,6,low,no,12/12/2020
+Pakistan,Asia,30,153,94,83,36,69,6,1,high,no,5/7/2023
+France,Europe,26,126,86,62,36,83,2.3,6,low,no,1/2/2023
+Brazil,South America,27,115,91,92,36.5,80,0.2,6,medium,no,7/1/2020
+Argentina,South America,31,85,102,96,36.7,88,5.4,5,medium,yes,8/23/2025
+Australia,Oceania,33,117,90,48,36.8,83,10.5,3,low,no,11/25/2020
+Kenya,Africa,20,144,82,114,36.3,69,13.9,3,medium,no,5/18/2024
+South Africa,Africa,26,118,98,120,36.4,75,4.2,4,medium,yes,2/12/2020
+France,Europe,28,80,99,68,36.7,73,3.2,3,medium,yes,8/7/2024
+Russia,Europe,31,111,99,59,35.9,61,6.4,3,medium,no,10/19/2020
+Turkey,Europe,23,138,72,81,37.1,66,15.7,1,low,no,7/22/2024
+United Kingdom,Europe,27,130,62,91,37.2,79,4.7,6,low,no,10/3/2022
+Germany,Europe,28,105,71,82,36.3,99,0.7,5,low,no,9/10/2023
+Germany,Europe,24,110,86,88,36.4,76,8.7,6,low,no,4/27/2022
+Saudi Arabia,Middle East,24,113,80,97,37.2,73,5.9,4,low,no,11/27/2020
+Egypt,Africa,29,108,76,49,36.5,68,1.7,6,low,no,9/11/2024
+Canada,North America,27,83,85,52,36.9,82,6.3,5,low,no,4/5/2020
+Russia,Europe,31,134,60,40,36.6,96,10.9,3,low,no,3/2/2024
+Brazil,South America,22,143,80,118,37.4,106,4.4,4,medium,yes,11/8/2020
+Nigeria,Africa,26,93,91,90,36.8,85,3.9,2,medium,no,3/14/2022
+Nigeria,Africa,27,142,85,121,36.9,84,8.5,1,medium,no,10/8/2023
+Russia,Europe,33,118,86,56,36.9,75,3.4,5,low,no,2/23/2022
+Russia,Europe,22,142,97,91,36.3,77,11.9,3,high,yes,10/6/2021
+Saudi Arabia,Middle East,29,121,77,96,36.4,90,17.2,7,low,no,3/1/2024
+France,Europe,30,122,70,73,37,78,0.4,8,low,no,8/24/2024
+Indonesia,Asia,38,127,92,43,36.7,80,2.5,7,medium,no,11/1/2024
+India,Asia,22,106,92,142,36,82,7.2,6,high,yes,8/8/2022
+Brazil,South America,24,142,85,132,37.5,75,2.7,0,medium,yes,2/11/2023
+United Kingdom,Europe,22,100,76,79,37.1,81,2.8,3,low,no,11/18/2022
+Mexico,North America,18,113,78,105,36.6,58,7.3,2,low,no,2/24/2021
+Indonesia,Asia,39,129,63,75,36.5,89,2.7,6,low,no,2/10/2024
+United States,North America,21,111,91,60,36.7,110,4.8,6,medium,no,10/12/2022
+Nigeria,Africa,23,134,91,145,36.9,75,1.9,7,high,no,7/20/2022
+Argentina,South America,36,145,62,40,35.6,86,13.3,2,medium,no,6/23/2022
+South Africa,Africa,17,138,88,81,37.7,92,12.9,7,medium,yes,12/16/2023
+Germany,Europe,33,85,83,93,36.2,97,16.6,1,low,no,11/5/2024
+Japan,Asia,20,122,66,140,36.6,79,5.3,3,low,no,1/16/2023
+Philippines,Asia,35,139,64,117,36.6,60,12.1,3,low,no,2/24/2022
+Australia,Oceania,15,96,82,40,37.6,85,6.9,2,medium,no,1/12/2024
+Japan,Asia,17,133,73,90,36.6,84,6.3,2,medium,yes,12/6/2023
+Indonesia,Asia,25,132,100,91,37.4,78,2.2,1,medium,yes,11/5/2020
+Saudi Arabia,Middle East,34,98,89,83,36.8,80,8.6,3,low,no,7/1/2020
+Ethiopia,Africa,28,135,84,109,36.1,84,8.8,7,low,no,6/19/2020
+Ethiopia,Africa,26,125,84,48,36.7,86,11.9,7,low,no,2/10/2022
+Saudi Arabia,Middle East,36,132,94,78,36.5,86,4.2,2,medium,no,2/25/2024
+Germany,Europe,41,103,88,104,36.1,79,4.9,0,medium,no,2/14/2022
+Brazil,South America,32,123,84,110,36.8,87,10.9,3,low,no,8/25/2022
+Kenya,Africa,24,89,66,94,36.6,79,2.8,6,low,no,7/21/2024
+India,Asia,25,80,115,81,36.9,90,12.2,9,medium,no,1/3/2024
+Ethiopia,Africa,20,123,65,86,36.7,74,4.2,2,low,no,4/6/2023
+United States,North America,29,140,74,112,36.3,83,1.8,2,low,no,11/5/2021
+Ethiopia,Africa,18,125,58,91,37,63,12.5,4,low,no,4/17/2020
+Japan,Asia,31,119,84,59,36.3,78,0.6,4,low,no,7/18/2020
+Ethiopia,Africa,40,117,80,53,35.1,89,0.7,2,low,no,2/12/2020
+Ethiopia,Africa,32,103,87,45,36.7,70,0.4,6,low,no,4/5/2021
+Kenya,Africa,25,116,57,134,36.3,78,1.9,4,low,no,1/9/2023
+Kenya,Africa,31,128,91,114,36.8,53,5.9,2,medium,no,11/12/2020
+Australia,Oceania,38,112,68,87,37.6,66,1.9,6,medium,no,11/20/2021
+Canada,North America,37,134,76,76,37.6,69,7.9,3,medium,no,4/9/2021
+United States,North America,22,124,89,73,36.5,83,5.4,3,low,no,11/3/2023
+Nigeria,Africa,31,126,81,123,36.2,86,1.7,3,low,no,1/1/2023
+Nigeria,Africa,27,136,82,147,36.9,81,5.3,5,medium,yes,2/22/2023
+Argentina,South America,33,111,88,72,36.4,77,13.8,2,low,no,2/15/2021
+Kenya,Africa,30,132,83,124,36.8,77,7.3,6,low,no,12/10/2022
+Turkey,Europe,15,113,74,91,36.3,91,1.5,3,medium,no,10/14/2020
+Germany,Europe,26,126,76,84,36.7,85,3.9,3,low,no,12/7/2021
+United Kingdom,Europe,29,108,81,135,36.2,78,1.1,1,low,no,3/4/2024
+Canada,North America,19,104,67,90,37.2,98,4.7,4,low,no,8/26/2025
+Pakistan,Asia,31,122,90,99,36.3,105,9.1,7,low,no,11/5/2023
+Canada,North America,19,86,81,97,36.9,67,2.3,4,low,no,6/20/2024
+Egypt,Africa,23,115,79,41,36,88,0.6,1,low,no,6/16/2023
+Japan,Asia,36,91,92,99,37,119,3.5,1,high,yes,9/3/2020
+Ethiopia,Africa,23,134,77,73,36.1,85,4.7,2,low,no,8/17/2025
+United Kingdom,Europe,31,139,76,47,36.7,83,1.3,4,low,no,2/13/2020
+Japan,Asia,17,104,72,74,37.1,81,8,8,medium,yes,6/6/2023
+United States,North America,40,128,82,74,36.5,88,5.7,3,low,no,1/26/2021
+Saudi Arabia,Middle East,26,136,82,121,36.1,91,2.8,4,low,no,9/5/2022
+Kenya,Africa,29,136,70,58,36.8,67,8.9,3,low,no,4/16/2023
+United Kingdom,Europe,29,124,76,66,36.2,82,8.4,4,low,no,4/11/2022
+Australia,Oceania,32,133,70,97,36.4,55,3.7,2,low,no,9/17/2021
+Egypt,Africa,19,108,70,50,36.7,79,4.8,4,low,no,3/5/2022
+Bangladesh,Asia,28,121,57,70,37.3,71,10.3,3,low,no,5/6/2022
+Bangladesh,Asia,24,112,75,40,36.6,86,11.3,7,low,no,1/10/2025
+Nigeria,Africa,18,107,58,118,36.6,62,7.2,3,low,no,6/21/2024
+Indonesia,Asia,34,121,72,81,37,76,3.6,5,low,no,3/1/2022
+United Kingdom,Europe,26,126,71,90,36.6,94,7.5,3,low,no,1/21/2021
+Bangladesh,Asia,29,141,91,117,36.9,74,9.8,0,high,yes,10/10/2024
+India,Asia,29,125,66,68,37.1,59,5.7,6,low,no,6/17/2021
+Saudi Arabia,Middle East,26,132,69,81,36.4,85,6.4,7,low,no,12/27/2021
+Pakistan,Asia,40,132,73,58,35,75,3.5,5,low,no,10/3/2022
+Argentina,South America,28,168,71,58,36.2,80,3,4,medium,yes,2/2/2024
+India,Asia,19,87,94,62,37.2,73,4,1,medium,no,8/17/2021
+Argentina,South America,26,108,64,75,36.6,106,0.9,8,low,no,11/4/2021
+Saudi Arabia,Middle East,31,147,73,78,36.4,63,1,4,medium,no,12/2/2022
+Brazil,South America,31,114,82,99,37.2,116,13.6,0,medium,yes,2/5/2021
+Saudi Arabia,Middle East,21,136,89,63,36.5,77,10.7,3,low,no,4/10/2023
+Indonesia,Asia,34,124,73,100,35.6,84,5.2,3,low,no,3/1/2022
+Nigeria,Africa,17,158,55,105,35.8,75,1.5,3,high,no,9/26/2022
+Mexico,North America,35,100,76,76,36.8,75,2.8,3,low,no,2/1/2020
+Brazil,South America,20,142,94,66,36.6,73,1.2,3,high,yes,3/27/2021
+Ghana,Africa,27,151,81,93,37.3,89,6.9,5,medium,no,7/26/2024
+Mexico,North America,34,102,81,84,36.2,65,2.5,9,low,no,4/4/2024
+Nigeria,Africa,29,134,65,97,36.4,86,10.8,4,low,no,6/7/2021
+Egypt,Africa,33,103,64,137,36.2,56,4.7,1,low,no,3/14/2020
+Russia,Europe,32,121,78,92,36.3,85,3,1,low,no,1/14/2020
+Russia,Europe,36,115,61,71,35.7,92,4.9,3,low,no,11/18/2023
+Ghana,Africa,34,80,87,63,36.4,67,2.5,2,low,no,6/2/2023
+Canada,North America,25,128,68,64,36.6,90,7.2,3,low,no,4/1/2022
+South Africa,Africa,32,123,78,46,36.5,83,5.1,1,low,no,2/21/2023
+India,Asia,19,147,55,118,37.7,101,3.1,5,high,no,7/22/2023
+Brazil,South America,28,131,73,40,37.5,72,0.7,4,low,no,10/16/2025
+Bangladesh,Asia,33,161,64,105,36.2,116,11.6,10,high,yes,12/22/2020
+Bangladesh,Asia,29,122,50,64,35.6,53,9,4,low,no,5/18/2021
+Russia,Europe,31,118,85,75,36.6,78,19.6,3,low,no,6/16/2020
+Saudi Arabia,Middle East,27,117,98,63,36.8,62,10,5,medium,no,6/23/2024
+Ethiopia,Africa,35,112,92,133,36.2,104,1.1,2,medium,no,9/22/2024
+Kenya,Africa,28,80,86,90,36.2,79,0.4,3,low,no,12/24/2023
+Nigeria,Africa,25,116,73,114,37.4,80,2,4,low,no,2/6/2020
+Bangladesh,Asia,33,83,88,129,36.5,87,1,2,low,no,12/25/2021
+Germany,Europe,20,128,93,95,36.9,82,5.7,1,medium,no,6/10/2021
+United States,North America,31,98,80,54,36.1,75,4.2,5,low,no,9/2/2023
+United States,North America,22,104,64,83,36.6,67,8.9,6,low,no,12/7/2021
+Canada,North America,36,108,72,68,36.4,84,5.5,7,low,no,4/21/2020
+Indonesia,Asia,26,116,98,75,36.3,87,8.2,2,medium,no,12/17/2023
+Indonesia,Asia,29,120,77,87,37.2,90,1.9,5,low,no,11/3/2021
+India,Asia,30,140,50,86,35.9,105,6.5,5,low,no,6/20/2022
+Argentina,South America,16,110,60,102,36.8,56,12.8,7,medium,yes,7/12/2021
+Bangladesh,Asia,24,129,73,107,36.4,81,0.2,5,low,no,1/2/2024
+Bangladesh,Asia,34,169,90,86,36.8,96,0.3,4,medium,no,5/7/2023
+India,Asia,33,127,75,102,36.4,81,9.3,7,low,no,4/17/2024
+Saudi Arabia,Middle East,30,117,91,74,37,54,0.8,9,medium,yes,10/19/2022
+Japan,Asia,20,106,72,129,36.1,67,3.6,3,low,no,2/12/2025
+Australia,Oceania,32,117,54,73,37.2,86,13.9,5,low,no,2/9/2024
+Japan,Asia,32,104,72,126,36.6,86,0.2,3,low,no,2/27/2023
+Nigeria,Africa,28,125,82,46,35.9,90,14.3,1,low,no,7/14/2025
+Japan,Asia,35,122,81,79,36.9,73,3,5,low,no,11/2/2022
+Saudi Arabia,Middle East,24,81,63,80,36.5,85,1.7,3,low,no,11/21/2022
+Egypt,Africa,25,120,74,98,35.7,71,8.6,4,low,no,4/4/2020
+Ethiopia,Africa,15,139,110,116,36.8,85,5.6,6,high,yes,6/19/2023
+Mexico,North America,34,113,63,53,37.1,83,5.1,3,low,no,7/21/2023
+Pakistan,Asia,30,108,86,57,37.2,72,0.4,4,low,no,9/16/2024
+United Kingdom,Europe,18,95,53,48,36.4,101,5.6,8,low,no,11/22/2021
+Mexico,North America,17,87,88,130,36.7,62,7.4,6,medium,no,2/17/2022
+Saudi Arabia,Middle East,23,135,67,99,36.6,80,6.3,2,low,no,10/2/2021
+India,Asia,33,117,83,57,37.3,72,12.8,3,low,no,12/17/2023
+Bangladesh,Asia,26,134,63,77,36.2,104,5.6,6,low,no,9/19/2021
+Russia,Europe,23,148,81,125,36.4,89,2.6,1,medium,yes,11/8/2024
+India,Asia,22,137,67,82,36.2,74,0.2,2,low,no,5/24/2021
+Russia,Europe,22,110,69,80,35.9,79,4.1,4,low,no,6/20/2021
+Ghana,Africa,16,123,83,67,36.7,104,7.3,0,medium,no,6/6/2024
+China,Asia,21,109,73,59,37.4,71,2.1,2,low,no,11/12/2022
+Ghana,Africa,22,107,83,125,36.5,61,3.5,4,low,no,3/25/2020
+Kenya,Africa,32,126,76,140,36.2,85,11.9,7,low,no,11/23/2022
+Australia,Oceania,27,105,79,60,36.7,86,4.1,3,low,no,11/18/2020
+India,Asia,23,80,83,132,36.9,90,6.8,3,low,no,10/27/2025
+Bangladesh,Asia,42,104,74,75,36.5,90,6.3,3,medium,yes,7/2/2023
+Indonesia,Asia,24,114,66,106,37.3,103,15,6,low,no,7/19/2021
+Pakistan,Asia,35,147,72,132,36.2,61,8.4,5,medium,no,8/24/2023
+Nigeria,Africa,38,111,92,86,36.5,68,8.8,4,medium,no,5/10/2020
+Pakistan,Asia,19,129,79,80,36.7,90,9.2,2,low,no,2/25/2024
+Nigeria,Africa,28,117,68,114,36.8,69,0.5,5,low,no,3/3/2024
+China,Asia,25,142,83,57,36.6,65,1.6,6,medium,no,9/25/2024
+Turkey,Europe,24,141,84,124,36,104,11.7,2,medium,no,6/12/2022
+Bangladesh,Asia,31,141,84,94,37.8,63,7.3,4,high,no,8/26/2022
+Saudi Arabia,Middle East,24,89,66,73,36.5,78,0.9,2,low,no,8/16/2020
+Japan,Asia,25,124,70,72,36.7,81,3,3,low,no,5/12/2023
+Mexico,North America,27,134,70,48,36.9,98,6.4,6,low,no,1/8/2023
+Brazil,South America,26,127,74,74,36.3,60,2.5,3,low,no,6/5/2022
+India,Asia,21,131,84,82,36.6,87,8.8,1,low,no,7/11/2024
+Ethiopia,Africa,33,121,82,58,36.3,71,4.3,3,low,no,9/10/2021
+Nigeria,Africa,34,107,83,89,36.8,90,4.3,7,low,no,2/3/2020
+Bangladesh,Asia,30,89,94,104,36.5,71,4,6,medium,yes,12/27/2020
+Germany,Europe,26,108,86,84,36.7,101,5,1,low,no,2/23/2021
+Argentina,South America,24,168,76,110,36.1,71,0.4,3,medium,no,10/9/2020
+Australia,Oceania,24,111,64,66,36.2,52,1.8,7,low,no,1/12/2023
+Canada,North America,42,85,69,120,35.9,73,10.6,4,medium,no,5/6/2022
+Australia,Oceania,34,133,75,94,36.2,79,9.6,3,low,no,2/19/2021
+China,Asia,23,135,88,136,35.3,95,15.8,0,low,no,3/16/2024
+United Kingdom,Europe,29,143,78,162,36.4,67,3.1,6,high,no,2/21/2021
+United Kingdom,Europe,26,128,70,76,36.3,67,1.2,4,low,no,11/23/2023
+France,Europe,32,135,69,77,36.7,94,7.5,6,low,no,4/24/2022
+Argentina,South America,31,153,77,83,36.6,65,1.6,6,medium,no,11/14/2023
+Australia,Oceania,35,107,89,108,37.2,80,1.8,2,low,no,3/4/2025
+Mexico,North America,23,103,97,130,37.9,80,3.8,5,high,no,9/18/2020
+Kenya,Africa,29,100,76,70,37.2,85,14.9,4,low,no,10/10/2023
+Turkey,Europe,18,115,77,101,36.4,73,9.2,6,low,no,12/18/2024
+Nigeria,Africa,20,146,63,86,36.4,71,9.9,4,medium,no,2/12/2023
+Philippines,Asia,33,130,101,109,37,86,14.6,4,medium,no,7/19/2021
+Nigeria,Africa,22,129,61,135,35.8,71,10.4,2,low,no,11/8/2022
+United States,North America,23,87,92,83,36.4,66,1.8,5,medium,no,3/1/2023
+Bangladesh,Asia,28,108,74,40,36.5,97,10.3,5,low,no,10/14/2024
+Argentina,South America,32,87,71,112,36.9,88,11.1,3,low,no,8/23/2020
+Pakistan,Asia,22,141,65,65,36.9,103,8.9,4,medium,no,4/6/2020
+India,Asia,15,149,107,86,36.2,91,3.8,5,high,yes,4/14/2022
+Ethiopia,Africa,23,134,81,114,36.4,67,8.3,6,low,no,9/2/2021
+Ethiopia,Africa,35,102,78,99,36.8,83,4.9,5,low,no,11/9/2021
+Germany,Europe,30,147,89,87,36.2,70,0.9,7,medium,no,3/12/2021
+China,Asia,36,115,70,73,37.2,62,0.6,5,low,no,7/5/2021
+Turkey,Europe,21,98,78,40,36.9,77,9.2,2,low,no,1/2/2021
+United Kingdom,Europe,18,103,79,111,36.7,94,0.4,7,low,no,7/19/2025
+India,Asia,31,112,72,82,36.8,85,0.1,1,low,no,10/7/2021
+Indonesia,Asia,29,121,92,135,36.4,65,9.5,5,medium,no,11/7/2021
+United States,North America,30,117,75,102,36.3,76,5.8,6,low,no,2/10/2021
+Japan,Asia,34,95,59,74,36.4,80,8.5,4,low,no,12/17/2025
+Ethiopia,Africa,31,142,74,122,36.8,62,2.4,4,medium,no,6/26/2024
+China,Asia,30,117,81,125,36.7,91,8.3,4,low,no,9/14/2024
+Turkey,Europe,32,107,67,83,36.4,79,1,0,low,no,6/27/2020
+India,Asia,31,140,68,126,37,65,1.1,6,low,no,3/11/2024
+Nigeria,Africa,33,99,71,73,36.5,65,2,3,low,no,1/20/2022
+Saudi Arabia,Middle East,34,91,93,95,36.3,95,13.2,3,medium,no,12/6/2021
+Turkey,Europe,37,143,72,107,36.7,77,2.8,5,medium,no,12/8/2023
+Canada,North America,24,154,95,114,36.1,96,18.2,5,high,no,4/19/2024
+Nigeria,Africa,31,112,71,109,35.8,101,7.4,3,low,no,4/19/2024
+India,Asia,26,119,82,80,36.6,94,4.3,2,low,no,8/24/2024
+Ghana,Africa,23,99,73,123,36.3,76,12.9,3,low,no,10/24/2024
+Russia,Europe,24,120,87,86,36.5,52,14.5,3,low,no,10/24/2021
+South Africa,Africa,31,111,65,73,36.1,86,0.2,4,low,no,7/17/2022
+Australia,Oceania,31,118,87,73,37.2,107,5.4,1,low,no,10/24/2020
+India,Asia,30,127,79,148,36.3,82,9.3,6,medium,no,7/24/2024
+Mexico,North America,27,100,70,68,36.4,58,3.6,6,low,no,7/18/2021
+China,Asia,28,113,76,129,36.8,74,5.9,5,low,no,12/12/2024
+Japan,Asia,33,88,96,56,35.9,80,5.1,5,medium,no,2/9/2022
+Ghana,Africa,19,114,80,105,35.9,69,3.9,3,low,no,9/23/2022
+Philippines,Asia,28,118,70,99,36.8,51,2.9,1,low,no,6/24/2020
+Australia,Oceania,29,124,64,139,36.4,81,5.1,0,low,no,2/16/2022
+Canada,North America,33,124,84,70,36.1,73,5.6,3,low,no,1/18/2024
+Kenya,Africa,20,136,80,62,36.9,103,5.4,1,low,no,11/16/2020
+South Africa,Africa,37,92,86,87,36.2,83,9.5,4,low,no,1/16/2022
+Kenya,Africa,29,93,60,140,36.5,88,5.8,1,low,no,1/4/2020
+Ethiopia,Africa,30,130,64,63,36.2,81,1.3,4,low,no,4/23/2022
+Mexico,North America,26,83,92,40,36.8,83,15.8,5,medium,no,4/22/2021
+Nigeria,Africa,31,123,82,92,37.3,62,2.9,7,low,no,12/7/2021
+Indonesia,Asia,28,99,84,118,35.7,70,3.3,7,low,no,9/1/2024
+Egypt,Africa,35,148,66,60,36.7,95,8.9,4,medium,no,12/24/2022
+Australia,Oceania,19,125,66,115,37,85,16.3,3,low,no,12/23/2021
+Bangladesh,Asia,29,116,90,59,36.4,77,9.1,3,low,no,1/20/2023
+Brazil,South America,30,142,90,86,36,88,10,5,medium,no,3/1/2021
+South Africa,Africa,27,101,65,113,36.8,88,1,7,low,no,3/8/2021
+Canada,North America,26,104,63,54,37.1,106,5.5,2,low,no,8/26/2023
+India,Asia,26,97,77,95,37,84,1.8,5,low,no,2/23/2021
+Ghana,Africa,29,104,68,126,36.8,69,9.2,7,low,no,6/8/2023
+Russia,Europe,17,121,68,104,36.6,81,9.8,4,medium,no,11/10/2022
+Japan,Asia,34,129,63,68,36.2,89,14.8,2,low,no,4/1/2024
+France,Europe,25,137,72,136,37,94,8,5,low,no,10/21/2025
+Brazil,South America,29,87,64,110,37,63,1.2,5,low,no,6/25/2020
+Russia,Europe,30,117,65,40,36,85,12.8,3,low,no,5/21/2022
+Pakistan,Asia,25,100,82,116,36.8,71,3.4,8,low,no,12/14/2022
+France,Europe,27,116,77,73,36.9,75,9.8,2,low,no,9/14/2021
+Saudi Arabia,Middle East,16,162,84,96,37,92,11.8,4,high,no,9/10/2024
+Nigeria,Africa,32,125,58,120,36.6,91,4.8,4,low,no,1/19/2024
+Mexico,North America,34,136,78,74,36.2,74,3.5,6,low,no,3/25/2022
+China,Asia,18,155,103,41,36.3,80,4.3,4,high,yes,1/16/2023
+Bangladesh,Asia,26,140,74,135,36.1,76,13.8,1,low,no,6/9/2020
+China,Asia,21,112,88,125,36.6,117,14.2,2,medium,no,12/20/2023
+Germany,Europe,27,97,88,87,36.5,85,6.2,6,low,no,3/16/2024
+Argentina,South America,32,119,88,116,37.7,72,0.9,5,medium,no,1/20/2023
+Canada,North America,34,110,80,79,37,98,15.4,8,low,no,6/27/2021
+Philippines,Asia,35,93,85,93,37.1,98,9.9,4,low,no,5/8/2023
+Kenya,Africa,36,124,86,86,36.8,104,0.5,4,low,no,12/7/2022
+Kenya,Africa,27,125,86,80,36.4,107,7.1,4,low,no,12/11/2023
+Canada,North America,21,152,65,101,36.5,90,6.8,3,medium,no,8/21/2022
+Australia,Oceania,27,113,58,54,36.5,78,1.2,3,low,no,2/6/2022
+Argentina,South America,32,125,59,82,36.7,80,7.1,7,low,no,8/15/2023
+Russia,Europe,21,108,75,99,36.8,78,11.6,3,low,no,12/19/2024
+Australia,Oceania,38,136,85,145,36.6,77,3.2,3,medium,no,5/14/2020
+Australia,Oceania,33,118,65,55,36.5,97,12.2,6,low,no,8/15/2025
+Ethiopia,Africa,27,99,89,106,36.3,82,5.5,3,low,no,12/6/2023
+Saudi Arabia,Middle East,24,120,72,109,35.9,94,18.3,3,low,no,10/24/2023
+South Africa,Africa,24,127,72,40,37.2,90,5.3,2,low,no,4/10/2024
+United Kingdom,Europe,28,125,68,102,37.7,69,11.4,5,medium,no,4/14/2022
+Philippines,Asia,27,139,55,116,37.2,61,6.3,5,low,no,10/16/2024
+Australia,Oceania,34,94,81,108,36,67,0.1,6,low,no,4/13/2021
+Egypt,Africa,26,105,99,87,37,77,4.8,3,medium,no,11/11/2021
+United States,North America,31,132,77,100,37.1,84,6.5,6,low,no,6/25/2023
+Nigeria,Africa,28,107,56,95,36.4,74,9.1,2,low,no,4/3/2024
+Mexico,North America,30,124,87,40,36.8,90,6.2,4,low,no,9/8/2024
+Turkey,Europe,27,80,59,96,36.4,76,3.9,9,low,no,9/3/2023
+Germany,Europe,32,169,63,79,37.4,85,9.5,4,medium,no,3/2/2023
+Germany,Europe,32,115,75,69,36.8,83,5.2,4,low,no,7/21/2022
+United States,North America,31,141,79,165,36.1,103,8.6,1,high,yes,12/14/2025
+Brazil,South America,32,114,66,128,36.9,70,10.8,0,low,no,5/20/2022
+Pakistan,Asia,22,127,75,55,37.1,109,1.7,4,low,no,12/21/2023
+United Kingdom,Europe,30,147,87,100,36.7,75,0,2,medium,no,9/22/2023
+France,Europe,35,141,88,134,36.8,66,5.3,4,medium,no,2/15/2023
+Saudi Arabia,Middle East,31,116,93,45,36.6,79,5.7,2,medium,no,3/3/2022
+Philippines,Asia,22,118,101,92,36,121,7.7,3,high,no,10/1/2025
+India,Asia,28,138,88,94,36.5,93,2.9,4,low,no,5/15/2023
+Canada,North America,30,162,75,52,36.9,89,13.5,4,medium,no,12/20/2025
+Mexico,North America,23,123,88,101,36.5,92,0.1,4,low,no,5/22/2020
+Saudi Arabia,Middle East,20,155,84,123,37,73,7.6,4,medium,no,10/2/2023
+Bangladesh,Asia,26,116,84,135,36.4,86,14,4,low,no,12/18/2023
+France,Europe,24,137,80,83,36.4,82,6.8,6,low,no,7/1/2023
+Ghana,Africa,28,140,67,165,37,104,10.8,5,medium,no,8/9/2024
+South Africa,Africa,18,113,66,40,36.7,81,9.3,4,low,no,8/3/2020
+Argentina,South America,31,107,77,101,36.4,77,6.9,6,low,no,1/2/2020
+Ethiopia,Africa,24,141,80,48,37.1,68,1.9,2,medium,no,1/4/2022
+Japan,Asia,34,110,70,93,36.3,84,8,6,low,no,3/16/2020
+Argentina,South America,26,104,83,74,36.2,86,11.3,4,low,no,1/22/2025
+Canada,North America,28,108,103,105,35.2,68,0.9,2,medium,yes,1/1/2021
+United States,North America,27,110,57,86,36.3,87,10.9,10,low,no,10/9/2022
+Turkey,Europe,24,135,85,65,37.3,85,10.6,4,low,no,8/25/2020
+Canada,North America,43,129,77,67,35.6,94,6.8,5,medium,no,1/8/2023
+Indonesia,Asia,25,133,83,148,36.1,97,1.8,6,medium,no,9/6/2022
+Germany,Europe,34,128,73,103,36.8,83,10.6,5,low,no,2/20/2020
+Turkey,Europe,21,109,76,40,35.5,70,8,2,low,no,9/18/2022
+Nigeria,Africa,30,133,80,107,36.3,72,1.1,1,low,no,7/16/2022
+Nigeria,Africa,31,141,74,84,37.2,103,2.8,4,medium,no,9/8/2025
+Philippines,Asia,28,131,60,90,37.6,84,9.9,4,medium,yes,3/23/2021
+Kenya,Africa,25,128,75,115,36.7,103,5.7,7,low,no,1/4/2023
+Australia,Oceania,26,106,61,125,36.1,88,11.5,2,low,no,1/3/2025
+Bangladesh,Asia,26,124,86,64,36.1,91,3,1,low,no,11/15/2024
+Russia,Europe,42,105,56,89,36.7,93,1,6,medium,no,10/6/2025
+Mexico,North America,28,120,90,74,36.7,67,18.2,3,low,no,6/1/2025
+France,Europe,31,90,83,108,37.5,86,5.1,1,low,no,7/18/2022
+Turkey,Europe,39,91,83,83,37.1,67,2,3,low,no,9/23/2023
+Nigeria,Africa,23,117,52,91,36.6,79,6.7,4,low,no,6/11/2020
+Bangladesh,Asia,28,110,74,82,36.4,90,10.9,1,low,no,5/3/2022
+Brazil,South America,26,122,92,87,38.1,70,8.9,3,high,no,2/13/2024
+United States,North America,27,118,72,141,36.9,89,18.9,5,medium,yes,2/17/2023
+Australia,Oceania,27,121,65,162,36.3,64,4.3,1,medium,no,8/18/2023
+Canada,North America,24,131,70,101,36.5,96,0.2,2,low,no,1/26/2023
+India,Asia,29,112,77,87,36.2,74,3.7,5,low,no,8/26/2021
+Germany,Europe,22,116,68,42,35.4,70,3.1,7,low,no,11/14/2024
+Bangladesh,Asia,34,146,93,67,36.8,65,4.6,6,high,no,10/25/2022
+Argentina,South America,32,120,77,86,37.5,75,0.9,1,low,no,11/7/2021
+United States,North America,25,117,71,69,35.8,59,9.7,2,low,no,7/7/2024
+Australia,Oceania,25,121,62,72,36.6,75,7.2,2,low,no,7/14/2022
+Russia,Europe,30,117,84,137,36.2,95,2.6,2,low,no,5/26/2024
+China,Asia,23,107,84,91,36.9,80,10.8,8,low,no,3/24/2023
+United States,North America,39,102,68,94,36.5,68,0.1,7,low,no,7/15/2022
+Philippines,Asia,30,106,51,70,35.9,85,2.1,2,low,no,7/12/2024
+Ethiopia,Africa,30,136,83,125,36.1,84,5.5,2,low,no,7/12/2023
+China,Asia,32,109,76,84,36.2,105,5.5,4,low,no,12/8/2022
+Saudi Arabia,Middle East,25,117,82,74,37.3,91,8.5,7,low,no,11/16/2020
+United States,North America,35,133,101,43,37.2,86,12,8,medium,yes,2/9/2024
+Germany,Europe,29,115,78,88,36.4,93,1.2,3,low,no,3/2/2020
+Bangladesh,Asia,34,131,72,73,37.2,80,14.5,4,low,no,3/14/2024
+Bangladesh,Asia,27,92,64,141,36.5,81,0.9,2,medium,no,4/24/2022
+Turkey,Europe,36,118,74,145,36.4,102,1.9,3,medium,no,12/24/2023
+Brazil,South America,30,121,80,53,36.6,62,12.6,3,low,no,9/16/2024
+Pakistan,Asia,41,120,79,56,36.7,94,0.2,7,medium,no,10/5/2021
+Nigeria,Africa,26,90,99,82,36.3,81,9.6,2,medium,no,1/5/2023
+United States,North America,29,142,84,66,36.6,79,12,6,medium,no,12/20/2024
+Canada,North America,22,105,76,97,37,75,7.9,2,low,no,7/21/2024
+South Africa,Africa,25,126,70,80,36.7,84,3.7,2,low,no,7/18/2023
+Australia,Oceania,32,120,81,98,36.6,81,1.4,3,low,no,11/18/2023
+United States,North America,35,138,67,120,36.8,77,21.3,7,low,no,4/5/2024
+Pakistan,Asia,46,159,80,58,36.9,74,2.1,3,high,yes,11/11/2024
+Kenya,Africa,27,97,84,120,36.6,59,22.9,2,low,no,1/13/2024
+Saudi Arabia,Middle East,22,108,75,68,36.4,73,15.3,6,low,no,3/3/2022
+South Africa,Africa,33,123,70,154,36.7,76,8.1,0,medium,no,5/17/2025
+Argentina,South America,21,100,52,139,35.8,84,6.8,2,low,no,12/25/2022
+Nigeria,Africa,31,134,92,87,36.5,106,2.2,3,medium,no,2/18/2020
+Japan,Asia,25,135,83,61,35.4,75,4.5,3,low,no,7/14/2022
+United States,North America,29,130,83,55,35.8,70,0.9,1,low,no,10/12/2021
+France,Europe,35,124,59,116,35.7,73,4.6,4,low,no,10/14/2021
+Pakistan,Asia,27,145,95,89,37.1,84,3.2,5,high,yes,7/26/2021
+Bangladesh,Asia,34,99,72,118,36.6,89,3.5,3,low,no,12/18/2020
+Japan,Asia,33,121,75,156,36,91,12.8,1,medium,no,10/20/2023
+Bangladesh,Asia,17,107,65,67,36.8,92,4.7,4,medium,no,5/2/2020
+Canada,North America,23,136,57,53,37.1,94,10.3,5,low,no,12/7/2021
+Kenya,Africa,19,87,92,96,36.9,79,6.4,5,medium,no,10/15/2020
+Ethiopia,Africa,40,119,93,124,36.5,107,8.8,0,medium,no,6/10/2020
+Saudi Arabia,Middle East,27,126,76,62,36.7,78,3.8,7,low,no,1/15/2021
+Japan,Asia,39,103,70,91,37.1,83,12.9,4,low,no,4/17/2023
+Germany,Europe,18,109,73,131,36.4,98,3,1,low,no,4/11/2025
+Ghana,Africa,25,120,74,41,36.6,89,7.1,8,low,no,11/2/2024
+India,Asia,33,137,64,97,36.5,55,3.9,3,low,no,8/27/2024
+Nigeria,Africa,29,101,74,74,35.8,82,6,1,low,no,2/21/2021
+Nigeria,Africa,31,105,80,94,37.1,92,4.2,2,low,no,1/18/2021
+Argentina,South America,20,140,90,111,37.6,66,8.5,7,medium,no,7/25/2020
+Egypt,Africa,36,115,78,97,36.2,91,1.6,4,low,no,6/4/2024
+United States,North America,33,106,59,60,37.1,87,2.6,4,low,no,5/9/2020
+Germany,Europe,30,133,82,75,36.2,96,1,3,low,no,12/27/2023
+India,Asia,24,111,75,133,36.7,74,1.9,2,low,no,8/17/2021
+Nigeria,Africa,30,138,94,100,37.4,94,1.9,5,medium,no,11/17/2021
+Nigeria,Africa,26,108,95,115,36.3,84,19.4,2,medium,no,2/17/2025
+Mexico,North America,18,117,96,98,36.6,103,12.5,4,medium,no,2/16/2024
+South Africa,Africa,28,137,71,114,35.7,115,9.1,6,medium,yes,9/20/2024
+Egypt,Africa,27,116,102,78,36.3,100,7.7,3,medium,no,1/25/2023
+Germany,Europe,34,134,82,67,35.6,88,6.8,5,low,no,6/8/2024
+France,Europe,15,119,98,113,36.8,110,6.8,3,high,no,3/23/2023
+Germany,Europe,29,156,72,124,37,89,6,4,medium,yes,5/15/2025
+China,Asia,21,148,74,63,36.5,71,5.2,2,medium,no,8/1/2021
+Kenya,Africa,30,96,81,73,36.7,82,7.6,8,low,no,7/19/2023
+Argentina,South America,30,129,80,85,36.4,91,2.8,4,low,no,12/25/2023
+Ghana,Africa,27,105,93,139,37,92,3.6,5,medium,no,4/15/2022
+India,Asia,33,123,75,107,36.7,68,0.5,3,low,no,8/9/2024
+Canada,North America,21,121,92,50,35.6,69,1.7,4,medium,no,11/5/2025
+Ethiopia,Africa,35,101,87,87,37.1,78,6.8,6,low,no,11/16/2022
+Mexico,North America,24,139,75,83,36.4,88,9.6,3,low,no,10/13/2022
+South Africa,Africa,19,124,86,55,36,90,6.8,5,low,no,11/16/2022
+Kenya,Africa,26,115,72,87,36.4,84,9.5,6,low,no,2/22/2024
+Argentina,South America,15,112,106,81,35.6,72,9.6,4,high,no,7/11/2023
+Indonesia,Asia,30,123,50,79,36,103,3.2,3,low,no,5/13/2020
+Brazil,South America,26,127,86,78,36.7,69,8.2,5,low,no,11/6/2023
+Pakistan,Asia,35,118,57,134,36.7,98,5.5,2,low,no,6/26/2020
+Turkey,Europe,32,80,75,79,36.8,91,2.7,7,low,no,3/20/2024
+Ghana,Africa,20,120,77,91,36.6,97,2,4,low,no,11/17/2022
+France,Europe,23,94,96,88,36.3,77,14.2,3,medium,no,10/5/2022
+Egypt,Africa,31,116,70,75,36.6,80,7,2,low,no,7/17/2024
+Japan,Asia,33,95,94,92,36.4,83,3,2,medium,no,7/1/2020
+Pakistan,Asia,35,95,64,92,35.8,76,8.6,2,low,no,2/27/2021
+Russia,Europe,35,142,94,92,36.2,85,10.5,0,high,yes,1/5/2022
+Turkey,Europe,27,114,72,64,37,101,4.5,5,low,no,10/5/2021
+Russia,Europe,30,113,79,84,37.4,66,9.1,4,low,no,2/7/2022
+Pakistan,Asia,36,129,74,113,36.9,74,10,1,low,no,12/16/2025
+South Africa,Africa,26,113,93,85,37.4,73,11.2,3,medium,no,8/18/2024
+United States,North America,30,158,91,95,36.6,81,2.1,9,high,no,11/6/2024
+Indonesia,Asia,26,115,83,95,37.5,80,5.9,3,low,no,10/2/2025
+Japan,Asia,25,127,64,103,37.6,91,14.2,5,medium,no,3/13/2022
+India,Asia,28,137,69,107,35.7,82,1.8,7,low,no,11/10/2021
+Ethiopia,Africa,24,149,66,85,36.7,86,0.1,6,medium,no,4/21/2021
+India,Asia,27,107,51,63,36.6,87,5.5,4,low,no,8/20/2024
+Bangladesh,Asia,22,112,93,53,36.4,85,2,4,medium,yes,3/11/2023
+Pakistan,Asia,27,143,74,121,36.8,90,1.7,6,medium,no,6/26/2021
+Ghana,Africa,31,135,74,113,36.6,81,2.5,3,low,no,2/21/2022
+Ethiopia,Africa,24,139,96,109,36.2,102,12.9,2,medium,no,3/2/2023
+Brazil,South America,28,95,72,114,36.6,112,11.7,4,medium,yes,1/8/2023
+Japan,Asia,29,148,68,85,37.2,90,5.1,0,medium,no,9/24/2024
+Canada,North America,31,106,75,71,36.7,85,14.9,5,low,no,4/22/2022
+United States,North America,27,123,64,61,36.9,89,8.1,3,low,no,6/19/2024
+Germany,Europe,35,117,82,57,36.5,69,11.9,5,low,no,7/20/2022
+Ethiopia,Africa,15,104,74,126,36.8,84,0.2,4,medium,no,2/17/2023
+Canada,North America,46,95,72,75,36,73,1.1,1,medium,no,8/16/2025
+France,Europe,23,89,71,122,36.4,88,1,9,low,no,12/25/2024
+Canada,North America,30,122,77,84,36.5,73,4.5,4,low,no,9/10/2020
+Russia,Europe,22,93,79,70,36,78,5.4,2,low,no,10/5/2021
+India,Asia,32,100,72,57,36.2,60,6.9,6,low,no,11/14/2022
+Indonesia,Asia,30,116,74,72,36.8,68,16.8,5,low,no,2/24/2022
+Ethiopia,Africa,24,80,77,133,36.7,86,9.3,6,low,no,5/19/2023
+Ethiopia,Africa,34,134,76,57,37,72,1.9,6,low,no,2/4/2025
+Saudi Arabia,Middle East,27,80,78,154,36.3,95,5,5,medium,no,11/20/2020
+Bangladesh,Asia,31,119,70,65,36.6,71,14,2,low,no,5/16/2022
+Russia,Europe,22,120,90,112,36.3,87,9.7,2,low,no,7/24/2021
+Australia,Oceania,28,130,79,86,37,73,14,4,low,no,6/15/2024
+France,Europe,40,119,72,80,37.2,87,2.1,4,low,no,4/9/2025
+Argentina,South America,34,156,82,52,36.8,64,0.7,8,medium,no,2/3/2022
+Ethiopia,Africa,30,124,77,87,37.1,77,0.8,3,low,no,7/23/2020
+Pakistan,Asia,25,139,57,55,36.6,72,2.6,2,low,no,12/9/2024
+Germany,Europe,28,107,82,40,37,93,1.4,0,low,no,10/18/2023
+Indonesia,Asia,29,122,66,94,36.6,88,6.8,5,low,no,9/4/2022
+Argentina,South America,31,148,89,71,36.1,67,6.9,3,medium,no,1/19/2024
+Germany,Europe,22,116,75,141,36.7,80,13,3,medium,yes,3/24/2025
+Indonesia,Asia,32,123,87,120,36.1,73,5.6,1,low,no,7/4/2023
+Brazil,South America,21,138,70,141,37.8,93,0.7,3,medium,yes,9/9/2023
+China,Asia,38,107,79,70,36.4,97,9.8,4,low,no,5/1/2021
+Saudi Arabia,Middle East,23,81,93,94,36.9,65,6.1,3,medium,yes,7/1/2023
+Argentina,South America,30,125,75,40,36.6,92,5.3,0,low,no,10/20/2022
+Philippines,Asia,34,138,71,82,36,72,12.6,1,low,no,7/19/2022
+Bangladesh,Asia,26,96,86,93,35.7,79,1.1,5,low,no,4/3/2020
+Turkey,Europe,30,132,86,95,37,82,0.6,3,low,no,5/10/2021
+United States,North America,37,132,71,89,37.4,104,0.1,1,low,no,2/12/2021
+India,Asia,31,80,54,92,36.2,70,7.1,8,low,no,8/18/2023
+Germany,Europe,30,103,71,40,35.8,92,5.8,8,low,no,12/14/2023
+Russia,Europe,18,113,86,98,36.4,68,1.9,1,low,no,1/10/2023
+Saudi Arabia,Middle East,22,117,69,105,36.1,67,0.6,5,low,no,2/10/2022
+Turkey,Europe,34,107,78,130,36.3,82,0.5,2,low,no,12/18/2022
+Pakistan,Asia,31,106,70,101,36.9,82,4.9,7,low,no,3/24/2024
+Turkey,Europe,32,150,55,86,36.6,50,0.2,1,medium,no,7/1/2022
+Canada,North America,32,118,70,123,36.2,96,6.3,3,low,no,6/15/2025
+Bangladesh,Asia,36,107,86,40,36.9,56,7.8,7,low,no,7/8/2022
+Russia,Europe,26,119,50,75,36.9,80,3.2,6,low,no,11/26/2023
+Brazil,South America,29,130,81,67,36.4,98,2.8,2,low,no,5/3/2020
+France,Europe,22,121,64,89,36.7,109,6.1,3,low,no,4/18/2023
+Turkey,Europe,20,116,85,40,36.9,78,4.8,4,low,no,7/9/2024
+South Africa,Africa,18,108,87,130,36.8,65,13,3,low,no,3/16/2025
+Brazil,South America,23,108,76,83,36.6,97,6.9,4,low,no,10/21/2025
+China,Asia,37,109,76,100,37.3,92,11.6,2,low,no,7/15/2021
+United States,North America,19,126,68,97,36.9,76,8.7,4,low,no,2/5/2023
+India,Asia,26,102,62,128,36.4,75,2.9,3,low,no,12/13/2022
+Canada,North America,20,127,98,40,36.4,73,1.7,6,medium,no,12/22/2023
+Egypt,Africa,24,145,68,93,36.3,78,4.7,7,medium,no,8/20/2021
+Egypt,Africa,29,126,97,124,36.9,86,10.2,3,medium,yes,12/7/2024
+Ghana,Africa,24,113,68,87,36.3,75,16.6,4,low,no,6/16/2024
+Philippines,Asia,35,97,84,61,36.4,77,2.1,2,low,no,12/7/2022
+Germany,Europe,37,148,64,72,37.1,90,5.3,2,medium,no,3/27/2021
+Indonesia,Asia,15,99,84,78,36.7,64,9.8,4,medium,no,3/25/2021
+South Africa,Africa,24,135,74,68,37.2,77,4.7,1,low,no,5/22/2023
+Germany,Europe,28,131,74,85,37,62,14.9,4,low,no,3/16/2022
+Ethiopia,Africa,35,116,85,135,36,83,3.1,3,low,no,6/13/2024
+United Kingdom,Europe,25,115,72,72,36.5,59,9.1,11,low,no,2/17/2023
+Brazil,South America,28,87,61,75,37.1,93,9,3,low,no,8/9/2023
+China,Asia,21,126,87,104,36,66,11.9,4,low,no,11/12/2023
+France,Europe,19,131,64,85,36.8,61,5.4,10,low,no,12/13/2020
+Mexico,North America,37,100,84,50,36.6,78,10.3,5,low,no,11/26/2025
+South Africa,Africa,17,117,90,88,35.7,103,3.5,3,medium,no,9/9/2023
+Indonesia,Asia,42,121,73,87,36.7,91,0.2,3,medium,yes,7/5/2025
+Ghana,Africa,32,131,92,119,36.2,59,0.7,3,medium,no,3/7/2023
+Kenya,Africa,32,120,84,61,36,66,3.6,3,low,no,11/1/2023
+United States,North America,31,91,70,119,36.6,77,2.4,3,low,no,10/4/2020
+United States,North America,26,110,95,87,35.6,109,6.9,1,medium,yes,4/26/2023
+United Kingdom,Europe,30,124,64,57,36.3,71,3.8,4,low,no,12/4/2024
+Argentina,South America,27,135,73,51,37.9,71,6.2,6,medium,no,10/16/2024
+Mexico,North America,31,109,76,148,36.9,100,12.4,3,medium,no,2/5/2024
+Bangladesh,Asia,28,159,85,85,36.2,84,1.9,4,medium,yes,9/22/2021
+France,Europe,22,86,91,118,37.3,95,19,3,medium,no,5/4/2025
+Nigeria,Africa,23,110,91,40,36.1,73,9.5,4,medium,no,12/6/2025
+Australia,Oceania,22,119,81,169,36.3,81,3.8,4,medium,no,2/26/2020
+Saudi Arabia,Middle East,34,116,75,117,36,98,3.7,6,low,no,10/23/2025
+Ethiopia,Africa,24,98,56,82,36.7,80,1,3,low,no,6/3/2021
+Brazil,South America,17,128,62,81,37.3,95,4.8,6,medium,no,7/25/2023
+Russia,Europe,30,127,99,112,36.1,87,8,3,medium,no,2/8/2022
+France,Europe,37,121,56,110,35.6,70,12.5,0,low,no,1/17/2025
+Pakistan,Asia,33,126,69,95,37.1,82,11.9,6,low,no,7/18/2020
+Pakistan,Asia,24,112,92,90,37.4,94,5.3,4,medium,no,1/18/2022
+United Kingdom,Europe,18,91,81,107,35.6,90,1.9,7,low,no,3/26/2022
+Argentina,South America,27,107,89,40,36.8,82,0.8,4,low,no,4/25/2022
+Germany,Europe,27,123,85,79,36.7,59,1.6,7,low,no,2/12/2023
+Australia,Oceania,22,123,96,41,36.2,60,16.6,1,medium,no,7/25/2021
+Brazil,South America,31,121,82,108,35.9,63,1.6,2,low,no,5/25/2023
+South Africa,Africa,39,130,86,70,37.1,76,10.5,1,low,no,1/1/2025
+Argentina,South America,29,110,69,43,36.7,77,12,4,low,no,12/23/2024
+Brazil,South America,29,120,85,66,36.7,64,9,7,low,no,12/12/2024
+India,Asia,22,130,73,94,36.3,94,1.3,2,low,no,8/11/2022
+France,Europe,36,118,73,84,36.2,67,13.9,2,low,no,10/13/2022
+France,Europe,28,98,89,55,35.4,66,2.9,9,low,no,7/3/2023
+Ghana,Africa,25,103,89,40,36.5,83,12.2,4,low,no,4/27/2020
+Saudi Arabia,Middle East,28,135,98,92,37.3,94,4.9,3,medium,no,2/25/2025
+Mexico,North America,31,145,97,73,36.2,107,4.6,9,high,yes,7/8/2021
+Indonesia,Asia,29,141,89,82,35.8,89,5.4,2,medium,no,11/3/2024
+Brazil,South America,35,124,57,85,36.8,101,7.1,3,low,no,2/17/2020
+Nigeria,Africa,30,98,100,103,36.9,67,0.7,3,medium,no,6/25/2024
+India,Asia,26,120,89,115,36.3,108,3.4,2,low,no,1/13/2021
+France,Europe,30,148,69,94,36.4,60,7.2,2,medium,yes,7/10/2020
+Russia,Europe,31,131,87,80,36.7,76,6.1,6,low,no,7/17/2023
+Ethiopia,Africa,20,116,66,91,36.5,89,7.1,1,low,no,12/3/2021
+Russia,Europe,35,131,85,80,37.1,63,0.7,10,low,no,4/13/2023
+Japan,Asia,26,97,62,41,37.8,71,8.8,4,medium,no,4/22/2023
+Nigeria,Africa,26,107,68,123,35.7,69,5.8,4,low,no,10/6/2020
+United Kingdom,Europe,33,100,87,117,37.2,78,4.5,4,low,no,5/14/2025
+Turkey,Europe,32,128,91,150,36.7,99,1.8,1,high,yes,2/27/2022
+United Kingdom,Europe,24,133,82,158,37.3,82,0.4,6,medium,no,9/10/2023
+Germany,Europe,33,117,75,55,37,76,0.5,3,low,no,10/20/2023
+France,Europe,25,104,53,80,36.6,50,2.1,2,low,no,4/16/2023
+France,Europe,39,120,75,165,37,88,8.7,2,medium,no,11/18/2022
+Philippines,Asia,23,111,84,89,36.4,91,1.2,2,low,no,9/13/2021
+Turkey,Europe,29,106,74,97,36.2,62,6.4,6,low,no,3/10/2023
+Bangladesh,Asia,23,126,78,44,37,81,5.4,10,low,no,9/6/2022
+Australia,Oceania,41,106,76,95,36.2,84,0.3,3,medium,no,1/10/2022
+Turkey,Europe,21,92,74,148,36.9,94,2.9,4,medium,no,7/5/2023
+Egypt,Africa,31,96,79,129,36.6,73,10.2,3,low,no,4/6/2023
+United States,North America,24,91,75,72,35.4,71,5.9,4,low,no,7/7/2020
+Pakistan,Asia,26,124,95,78,36.3,77,8.3,2,medium,yes,10/11/2022
+India,Asia,31,123,52,56,36.8,97,12.6,9,low,no,6/16/2022
+Argentina,South America,35,122,71,64,36.4,95,7.6,6,low,no,4/25/2020
+Saudi Arabia,Middle East,38,131,68,40,35.3,82,6.5,3,low,no,4/12/2021
+Russia,Europe,19,141,81,87,37.3,94,6.6,4,medium,no,8/12/2020
+Ghana,Africa,30,109,79,135,36.7,54,1.3,2,low,no,7/23/2025
+Philippines,Asia,37,127,97,101,36.8,91,15.9,3,medium,no,4/20/2023
+Indonesia,Asia,18,92,101,131,36.4,69,7.4,5,medium,no,11/26/2020
+Ethiopia,Africa,30,145,69,122,36.9,103,1.4,2,medium,no,6/5/2020
+China,Asia,28,98,78,74,37.5,69,8.4,4,low,no,6/16/2023
+Philippines,Asia,30,107,80,67,36.2,72,5.5,2,low,no,1/6/2022
+Nigeria,Africa,23,109,68,68,37.4,89,5.3,5,low,no,2/9/2024
+Turkey,Europe,19,93,86,40,36.8,90,10.2,3,low,no,4/5/2024
+Australia,Oceania,17,121,75,91,36.2,77,2.6,4,medium,no,6/21/2023
+Australia,Oceania,34,124,65,40,37.7,86,13.5,5,medium,no,6/23/2021
+India,Asia,35,117,75,108,36.8,88,4.3,1,low,no,1/16/2024
+Bangladesh,Asia,30,92,66,92,36.9,87,13.6,3,low,no,8/18/2025
+Canada,North America,25,156,90,104,36.5,77,7.5,3,medium,no,2/19/2023
+Russia,Europe,18,130,101,122,36.2,88,10.8,2,medium,yes,5/12/2023
+Egypt,Africa,31,167,81,96,36.7,99,2,5,medium,no,4/2/2022
+Germany,Europe,21,106,79,139,37.4,67,7.1,2,low,no,5/26/2022
+South Africa,Africa,24,137,80,109,36.4,72,5.4,6,low,no,5/10/2023
+Bangladesh,Asia,24,134,92,67,36.6,82,4.2,2,medium,yes,10/12/2024
+Mexico,North America,27,115,92,83,37.3,69,3.9,3,medium,no,8/14/2023
+United Kingdom,Europe,23,145,77,40,36.4,60,1.9,6,medium,no,10/18/2024
+Germany,Europe,28,113,81,63,36.9,95,0.3,6,low,no,7/19/2021
+Japan,Asia,24,114,86,79,37,55,9,2,low,no,12/6/2021
+Turkey,Europe,32,80,64,106,36.5,77,4.1,3,low,no,9/5/2023
+Mexico,North America,34,127,93,67,36.8,91,5.2,3,medium,no,12/27/2021
+Pakistan,Asia,29,96,99,53,36.9,85,4,6,medium,yes,11/16/2023
+Mexico,North America,31,110,92,40,36.4,77,11.5,0,medium,no,1/14/2021
+Ghana,Africa,41,102,63,72,37,69,5,1,medium,no,6/13/2024
+United States,North America,21,113,54,149,36.3,86,6.5,7,medium,no,6/21/2024
+Indonesia,Asia,21,128,87,98,36.3,70,1.6,6,low,no,2/2/2022
+Pakistan,Asia,32,120,69,118,35.8,85,11.9,2,low,no,11/2/2021
+Australia,Oceania,40,133,81,63,36.3,84,12.3,7,low,no,8/12/2023
+Ethiopia,Africa,26,143,96,43,36.2,84,4.8,2,high,yes,6/1/2025
+Indonesia,Asia,38,113,70,53,36.4,74,1.5,7,low,no,11/19/2023
+Nigeria,Africa,29,111,73,87,36.9,106,4.7,4,low,no,10/27/2020
+Turkey,Europe,24,137,81,40,35.7,86,0.2,2,low,no,9/16/2020
+Saudi Arabia,Middle East,22,139,62,60,35.6,79,8,6,low,no,10/7/2022
+France,Europe,32,133,69,72,36.2,85,0.5,3,low,no,5/27/2021
+Bangladesh,Asia,23,103,78,50,36.8,73,7.1,4,low,no,7/21/2024
+France,Europe,28,128,74,40,36.7,77,4.7,1,low,no,6/7/2024
+China,Asia,38,122,85,99,36.2,111,18.9,3,medium,no,11/16/2021
+India,Asia,26,139,111,91,37.2,73,2.8,4,medium,no,5/25/2022
+United Kingdom,Europe,36,110,79,113,36.3,81,2.3,3,low,no,6/6/2021
+Ghana,Africa,21,90,68,57,36.8,77,11.4,2,low,no,4/18/2024
+Argentina,South America,25,132,95,113,36.4,70,6.6,5,medium,no,3/1/2023
+United States,North America,20,80,59,136,36.2,87,3.9,1,low,no,1/1/2023
+Philippines,Asia,28,107,61,98,36.3,82,9,2,low,no,1/26/2022
+Russia,Europe,33,102,71,72,37,93,3.8,1,low,no,6/25/2023
+Kenya,Africa,28,101,75,94,36.8,92,4,6,low,no,9/14/2022
+South Africa,Africa,35,107,71,70,37.1,93,0.6,1,low,no,8/6/2022
+Japan,Asia,24,142,78,65,36.8,71,6.4,2,medium,no,12/6/2023
+Ghana,Africa,29,135,81,110,35.8,90,0.2,6,low,no,2/4/2023
+France,Europe,25,115,91,86,37.7,90,5.4,3,high,yes,9/12/2021
+United States,North America,30,140,79,126,36.8,70,2,2,low,no,8/18/2021
+Canada,North America,31,101,71,77,36.9,78,3.9,3,low,no,12/10/2022
+Japan,Asia,31,98,90,80,36.4,65,17.1,2,low,no,9/3/2022
+Nigeria,Africa,22,136,68,73,37.2,90,2.5,8,low,no,4/3/2023
+Australia,Oceania,23,130,58,56,36.1,90,4.2,12,low,no,9/8/2024
+Nigeria,Africa,24,112,92,114,36.9,99,3.8,3,medium,yes,2/22/2020
+Ghana,Africa,27,100,92,156,35.6,79,6,6,high,yes,1/23/2021
+Philippines,Asia,29,146,68,79,36.9,87,7.8,0,medium,no,9/25/2021
+Ethiopia,Africa,32,89,73,70,36.1,94,6.5,4,low,no,10/1/2023
+Egypt,Africa,23,109,67,68,36.7,73,6.7,3,low,no,8/18/2022
+Turkey,Europe,18,124,82,70,37.3,71,3.9,1,low,no,7/15/2023
+Russia,Europe,41,152,99,139,37,73,5.6,3,high,yes,8/25/2021
+Australia,Oceania,21,127,86,68,37.2,78,3.7,3,low,no,12/21/2023
+Ethiopia,Africa,33,129,90,72,37.2,72,5.9,6,low,no,1/20/2024
+France,Europe,28,110,88,53,36.3,74,20.8,6,low,no,9/17/2024
+Nigeria,Africa,30,130,78,99,36.9,93,9.4,3,low,no,12/25/2025
+Kenya,Africa,28,122,91,88,35.7,81,0.9,4,medium,no,10/11/2024
+Indonesia,Asia,26,91,87,56,36.3,86,6.4,7,low,no,11/13/2024
+India,Asia,31,134,95,63,37.3,75,3.1,3,medium,no,9/25/2021
+Nigeria,Africa,25,137,72,136,36.4,75,2,6,low,no,12/20/2021
+Turkey,Europe,35,134,57,91,35.7,85,3.9,4,low,no,11/25/2020
+Bangladesh,Asia,31,121,91,93,37.6,84,4.7,5,high,yes,9/10/2023
+Canada,North America,32,103,82,93,36.9,91,4.5,2,low,no,6/13/2025
+United Kingdom,Europe,25,80,74,132,37,98,7.3,6,low,no,4/17/2021
+Ethiopia,Africa,27,123,75,59,36.1,74,9.1,6,low,no,2/21/2023
+United States,North America,21,139,109,78,36.7,92,0,2,medium,no,11/1/2023
+United States,North America,26,138,70,85,36.7,69,6,2,low,no,4/20/2024
+United Kingdom,Europe,22,135,68,40,36.2,107,0.3,2,low,no,7/16/2023
+India,Asia,36,119,79,63,36.5,73,8.1,4,low,no,1/16/2025
+Turkey,Europe,28,140,92,121,35.8,90,0.9,5,medium,no,9/21/2022
+Canada,North America,29,137,105,113,36.4,69,9.7,3,medium,no,3/27/2022
+United States,North America,27,112,86,118,37.1,80,5.9,1,low,no,4/3/2023
+Turkey,Europe,29,132,63,72,36.2,101,1,6,low,no,12/2/2022
+United States,North America,43,110,102,76,37.6,72,1.7,2,high,yes,5/6/2020
+South Africa,Africa,26,130,78,40,35.9,108,6.2,7,low,no,12/11/2023
+South Africa,Africa,24,97,68,118,36.5,82,8.3,5,low,no,3/3/2024
+Argentina,South America,31,98,65,123,36.3,94,6.7,3,low,no,4/26/2023
+Ethiopia,Africa,15,139,88,123,36.5,87,1.9,3,medium,no,5/1/2022
+Turkey,Europe,28,137,81,138,37.3,87,11.8,4,low,no,12/11/2023
+China,Asia,26,131,82,103,36.1,65,5.2,4,low,no,1/13/2022
+Indonesia,Asia,22,122,93,137,36.4,76,9.7,3,medium,no,9/5/2020
+China,Asia,31,80,68,84,36.9,96,21.1,5,low,no,10/18/2023
+Nigeria,Africa,28,119,94,40,36.6,78,2.5,3,medium,yes,10/15/2021
+Argentina,South America,17,128,72,116,36.7,84,1,6,medium,no,4/18/2020
+France,Europe,24,110,104,40,36.1,63,6.9,5,medium,no,9/15/2024
+France,Europe,15,107,85,95,36.6,76,3.5,4,medium,no,4/20/2020
+Pakistan,Asia,30,146,67,119,37.2,95,12.7,2,medium,no,1/20/2025
+Nigeria,Africa,30,119,54,100,35.8,67,0.2,5,low,no,12/20/2023
+Ethiopia,Africa,23,128,88,158,36.3,91,3.5,5,medium,no,5/7/2025
+Mexico,North America,31,134,74,40,35.7,84,10.3,6,low,no,9/17/2020
+Kenya,Africa,20,102,76,88,36.9,79,6.9,3,low,no,3/8/2023
+Mexico,North America,22,123,87,91,37.2,79,12,8,low,no,5/13/2022
+Brazil,South America,31,144,90,50,36.5,76,2.4,6,medium,no,3/26/2024
+Kenya,Africa,24,153,93,55,36.1,77,12.6,5,high,yes,12/16/2022
+Australia,Oceania,28,121,64,65,36.1,93,5,4,low,no,3/25/2021
+Australia,Oceania,25,116,95,57,36.5,77,4.7,4,medium,no,1/10/2024
+India,Asia,26,125,71,87,36.4,104,12.7,9,low,no,2/14/2022
+Ghana,Africa,26,124,51,72,37.1,86,5,5,low,no,2/6/2020
+Germany,Europe,24,145,64,100,36.3,75,10.5,8,medium,no,9/20/2022
+Nigeria,Africa,30,102,81,109,36.8,94,5.6,3,low,no,7/22/2023
+Australia,Oceania,24,115,66,107,36.4,89,5,5,low,no,8/26/2021
+Germany,Europe,28,100,77,78,36.2,62,3,2,low,no,2/7/2022
+United States,North America,24,102,82,99,36.4,70,4.8,5,low,no,9/6/2020
+Russia,Europe,19,127,76,121,36.8,81,13.2,3,low,no,3/27/2023
+Ethiopia,Africa,33,135,72,103,37.1,63,5.3,5,low,no,10/17/2024
+Bangladesh,Asia,31,108,63,146,36.5,107,9.1,4,medium,no,2/21/2022
+Philippines,Asia,42,134,78,119,36,92,8.9,4,medium,no,12/24/2022
+Canada,North America,22,140,53,142,37.1,82,1.1,6,medium,yes,1/8/2020
+Philippines,Asia,27,155,70,40,36.2,78,10.1,2,medium,no,9/12/2021
+United States,North America,27,121,67,93,36.7,75,3.1,3,low,no,8/26/2021
+Turkey,Europe,34,108,75,80,36.6,58,3.4,5,low,no,12/25/2022
+China,Asia,25,102,75,86,36.5,61,17.6,7,low,no,11/4/2023
+Kenya,Africa,21,100,90,66,36.4,105,8.6,3,low,no,4/10/2025
+Egypt,Africa,35,142,97,102,36.9,101,1.2,1,high,yes,7/6/2020
+Argentina,South America,26,93,65,40,34.8,75,5.4,3,low,no,12/7/2023
+Brazil,South America,33,142,102,102,37.2,93,5.2,5,high,yes,3/21/2023
+United Kingdom,Europe,33,104,69,67,36.1,88,15.1,4,low,no,3/27/2023
+Kenya,Africa,28,108,80,75,36.8,89,5.2,5,low,no,4/8/2024
+United Kingdom,Europe,27,117,84,103,36.8,65,18.2,2,low,no,2/3/2021
+Ghana,Africa,26,107,107,92,37.2,60,2.8,2,medium,no,10/8/2020
+Kenya,Africa,28,137,71,122,36.7,96,4.8,5,low,no,4/15/2023
+Ghana,Africa,33,153,56,61,36.2,58,0.4,4,medium,no,10/21/2022
+Philippines,Asia,23,108,96,88,35.8,80,2,3,medium,no,3/1/2020
+Argentina,South America,29,112,68,117,36.4,78,2.2,10,low,no,8/13/2021
+Kenya,Africa,21,117,74,101,35.6,76,0.7,5,low,no,11/22/2022
+Saudi Arabia,Middle East,22,130,65,103,36.3,86,15.4,4,low,no,2/18/2023
+Russia,Europe,28,117,74,123,36.5,74,13.5,4,low,no,11/15/2021
+United Kingdom,Europe,16,145,68,78,36.3,87,7.4,6,high,no,9/7/2022
+Nigeria,Africa,40,141,86,71,36.6,84,2.2,4,medium,no,3/15/2022
+Japan,Asia,21,99,79,107,36.5,107,0.9,1,low,no,4/25/2022
+Philippines,Asia,28,129,70,86,36.4,65,9.5,2,low,no,10/3/2025
+Canada,North America,35,147,90,124,35.4,82,6.8,3,medium,no,10/26/2020
+South Africa,Africa,23,111,81,101,36,87,4.1,7,low,no,3/14/2025
+Argentina,South America,15,115,56,71,36.9,79,8.2,4,medium,no,3/20/2023
+Ethiopia,Africa,25,110,89,100,37,66,10.3,3,low,no,8/4/2024
+United States,North America,23,111,80,63,35.7,97,4.1,9,low,no,8/4/2022
+Pakistan,Asia,15,90,95,118,36.2,86,0.3,5,high,no,6/3/2022
+South Africa,Africa,30,96,79,48,37.1,67,2.9,3,low,no,4/5/2024
+Japan,Asia,29,121,68,127,36.2,87,6.5,3,low,no,1/25/2024
+Ethiopia,Africa,35,147,76,100,36.5,102,18,3,medium,no,4/11/2021
+South Africa,Africa,21,109,88,85,37.3,82,1.7,5,low,no,8/8/2021
+Ethiopia,Africa,18,108,69,113,36.4,82,11.6,3,low,no,6/26/2022
+Saudi Arabia,Middle East,26,151,73,105,36.3,101,0.9,5,medium,no,2/2/2024
+Japan,Asia,27,100,75,130,36.5,70,2.2,5,low,no,3/16/2022
+United States,North America,34,90,64,130,37.5,103,10.5,2,low,no,12/25/2023
+Kenya,Africa,36,105,69,101,36.8,94,3.5,2,low,no,7/10/2023
+United Kingdom,Europe,35,108,80,64,36.6,71,6.5,2,low,no,11/18/2024
+Turkey,Europe,30,89,92,74,36.3,74,6.4,1,medium,no,11/7/2023
+Kenya,Africa,33,118,82,88,36.9,76,1,4,low,no,4/5/2022
+France,Europe,24,137,77,122,36.9,60,10.4,1,low,no,4/7/2025
+Egypt,Africa,29,97,68,76,36.1,85,4.6,4,low,no,5/21/2023
+Egypt,Africa,21,122,91,79,36.9,71,3.3,8,medium,no,8/6/2023
+Bangladesh,Asia,28,127,83,145,36.5,86,0.4,3,medium,no,7/24/2022
+Egypt,Africa,29,118,70,87,36.6,67,13.7,3,low,no,9/1/2023
+Argentina,South America,38,123,89,71,36.2,93,5.3,3,low,no,5/11/2021
+Philippines,Asia,27,124,85,113,36.4,91,12.8,5,low,no,1/13/2021
+Russia,Europe,29,105,68,88,36.1,74,1.3,3,low,no,4/12/2023
+Canada,North America,29,147,77,48,36.1,86,8.5,4,medium,no,6/1/2023
+Canada,North America,25,142,72,121,36.8,83,7.6,8,medium,no,6/21/2023
+Bangladesh,Asia,23,141,110,68,36.4,100,0.5,5,high,no,9/15/2021
+Egypt,Africa,36,138,84,91,36,70,14.2,5,low,no,10/1/2023
+Australia,Oceania,22,92,80,88,37.7,80,3.4,1,medium,no,5/3/2022
+Bangladesh,Asia,20,137,84,97,36,74,17.1,5,low,no,5/26/2023
+Mexico,North America,32,132,95,40,37.1,83,4.8,7,medium,no,6/15/2021
+Pakistan,Asia,35,92,77,80,35.9,88,3.4,7,low,no,11/9/2023
+Mexico,North America,25,116,71,124,36.8,74,4.1,2,low,no,6/14/2024
+Pakistan,Asia,25,125,88,128,36.5,78,4.8,3,low,no,3/23/2021
+Japan,Asia,30,150,76,60,36.3,94,9.3,2,medium,no,6/22/2022
+Russia,Europe,24,133,65,118,36.7,98,25.4,3,low,no,8/24/2023
+India,Asia,23,104,63,67,36.6,88,7.7,7,low,no,12/8/2023
+India,Asia,33,151,96,79,36.2,80,5.1,3,high,yes,6/22/2023
+Ghana,Africa,32,121,80,80,36.2,79,1.6,4,low,no,12/4/2023
+Argentina,South America,36,115,71,93,35.8,89,6.3,4,low,no,11/20/2022
+Argentina,South America,20,114,75,120,36.8,85,12,7,low,no,5/20/2022
+Turkey,Europe,25,91,88,98,36,62,1.7,1,low,no,3/6/2021
+United States,North America,30,118,74,86,36.6,89,20.6,4,low,no,1/1/2021
+Ghana,Africa,22,129,61,119,36.9,72,10.2,4,low,no,5/18/2023
+South Africa,Africa,32,113,82,66,36.7,65,7,5,low,no,6/6/2020
+Australia,Oceania,35,128,93,88,36.2,62,7.4,1,medium,yes,6/14/2025
+Turkey,Europe,24,104,92,120,37.1,79,7.4,1,medium,no,6/11/2024
+United Kingdom,Europe,28,117,71,106,36.4,70,0.8,2,low,no,3/17/2024
+Nigeria,Africa,37,126,93,76,35.9,54,5.5,1,medium,yes,4/9/2024
+United States,North America,39,123,81,45,36.5,78,1.7,4,low,no,3/22/2022
+Indonesia,Asia,32,91,93,99,36.9,76,4.9,2,medium,no,2/7/2024
+Germany,Europe,32,112,85,43,36.3,80,1.1,1,low,no,8/14/2021
+China,Asia,23,150,60,84,37,74,2.7,3,medium,no,7/17/2020
+Kenya,Africa,30,111,99,125,36.2,104,0.5,2,medium,no,11/8/2024
+Ethiopia,Africa,31,120,79,108,36.3,88,11.2,2,low,no,8/16/2020
+China,Asia,27,118,85,40,36.1,76,9.5,4,low,no,6/12/2025
+France,Europe,24,148,62,96,36.9,81,6,5,medium,no,11/12/2023
+Indonesia,Asia,20,143,84,80,36.6,99,8.5,1,medium,no,12/5/2024
+Russia,Europe,18,135,91,52,36.1,93,1.8,1,medium,no,7/5/2021
+Philippines,Asia,16,102,101,100,36.4,65,0.2,4,high,yes,1/14/2023
+Russia,Europe,31,126,95,75,35.1,70,6.9,5,medium,no,10/6/2020
+Australia,Oceania,29,130,85,75,37,73,1,4,low,no,5/7/2024
+Philippines,Asia,25,107,59,94,36.5,77,5.7,2,low,no,4/23/2021
+Japan,Asia,26,104,80,71,35.4,75,2.6,3,low,no,10/21/2023
+Egypt,Africa,29,151,71,93,35.9,82,4.9,7,medium,no,3/17/2021
+Bangladesh,Asia,27,115,81,72,36.4,91,9.4,2,low,no,2/27/2020
+Ethiopia,Africa,20,149,63,74,35.9,93,11.2,6,medium,no,9/9/2022
+Pakistan,Asia,33,138,75,120,37,78,1.2,9,low,no,8/22/2021
+Nigeria,Africa,30,127,72,123,36.8,62,4.1,4,low,no,10/13/2023
+Mexico,North America,30,128,71,40,36.8,70,8.3,4,low,no,2/9/2021
+Ethiopia,Africa,33,95,72,112,35.3,76,16.1,2,low,no,6/27/2022
+India,Asia,23,124,76,132,36.3,67,5.7,3,low,no,3/16/2023
+Saudi Arabia,Middle East,35,146,81,137,36.3,96,1.4,4,medium,no,3/4/2021
+Philippines,Asia,27,132,50,106,36.1,68,2.8,3,low,no,5/2/2022
+Philippines,Asia,33,123,50,58,36.4,89,6.5,2,low,no,7/13/2024
+Japan,Asia,32,151,74,109,36,62,8.7,1,medium,yes,7/13/2021
+Australia,Oceania,22,117,76,64,36.7,90,17,4,low,no,11/19/2020
+China,Asia,31,109,80,80,37,80,0.3,3,low,no,10/12/2022
+Canada,North America,30,123,69,101,36.9,100,19.3,4,low,no,1/4/2022
+China,Asia,28,134,78,66,36.5,68,4.3,4,low,no,11/10/2023
+Japan,Asia,27,89,80,56,37.6,75,15,4,medium,no,7/16/2022
+Kenya,Africa,27,125,69,104,37.2,78,6.8,4,low,no,7/24/2024
+France,Europe,33,135,90,146,36.5,80,6.8,4,medium,no,6/19/2020
+China,Asia,31,115,80,127,36.4,78,16.1,5,low,no,6/8/2022
+Japan,Asia,28,140,85,111,37.3,78,9.7,1,low,no,2/6/2022
+Argentina,South America,19,132,79,119,37.1,78,7.2,6,low,no,3/4/2023
+Brazil,South America,31,159,103,109,35.9,57,6.6,2,high,no,3/7/2025
+India,Asia,32,106,85,103,37.1,94,4,2,low,no,3/14/2023
+Philippines,Asia,42,135,72,117,36.5,116,7.8,5,medium,no,2/27/2025
+Canada,North America,34,102,88,49,36.2,86,13.8,4,low,no,9/13/2022
+China,Asia,17,91,58,96,35.6,68,5.8,6,medium,no,6/21/2020
+Egypt,Africa,28,83,79,88,36.5,70,1.5,7,low,no,2/5/2021
+Philippines,Asia,39,130,82,92,36.6,89,6,3,low,no,3/9/2022
+France,Europe,32,123,80,76,37.4,87,0.3,0,low,no,10/3/2022
+Ghana,Africa,30,111,74,106,37.1,79,5.8,5,low,no,6/10/2020
+United Kingdom,Europe,33,88,66,65,36.3,91,0.1,10,low,no,4/15/2022
+India,Asia,24,108,69,74,36.8,57,0.8,9,low,no,7/20/2022
+Argentina,South America,31,120,79,70,37,91,4.7,5,low,no,6/21/2021
+Philippines,Asia,26,134,65,116,36.6,85,13.7,5,low,no,6/17/2021
+Russia,Europe,28,120,99,90,36.3,70,9.1,3,medium,no,12/23/2024
+Canada,North America,33,125,50,76,36.3,65,6.7,2,low,no,3/24/2022
+United States,North America,22,113,74,79,36.8,83,6.1,5,low,no,11/6/2023
+South Africa,Africa,36,151,79,90,36.8,99,8.3,4,medium,no,8/25/2023
+Brazil,South America,25,102,84,139,36.5,79,4.3,4,low,no,9/3/2022
+Russia,Europe,30,107,67,53,35.3,72,2.5,3,low,no,6/18/2021
+Ethiopia,Africa,20,111,92,110,36,84,9.4,2,medium,yes,2/5/2022
+Brazil,South America,32,130,61,104,36.9,104,3.6,3,low,no,1/13/2023
+Australia,Oceania,37,101,71,64,35.5,87,2.1,6,low,no,3/25/2022
+Germany,Europe,25,122,85,134,37.2,88,13.7,8,low,no,3/27/2021
+Russia,Europe,21,123,90,106,37.1,97,6.2,2,low,no,8/1/2020
+Ethiopia,Africa,30,108,61,75,36.6,88,14.1,2,low,no,5/17/2024
+France,Europe,37,126,110,40,36.9,73,8,2,medium,no,1/26/2022
+Saudi Arabia,Middle East,19,102,67,97,36.9,61,0.8,4,low,no,11/3/2023
+Russia,Europe,21,100,62,89,36.5,71,5.1,3,low,no,4/26/2022
+Pakistan,Asia,25,122,84,59,35.9,69,2.4,4,low,no,7/19/2024
+South Africa,Africa,23,90,74,59,37.1,90,9.8,5,low,no,5/21/2023
+India,Asia,23,81,72,116,37.3,92,9.7,6,low,no,10/20/2022
+Indonesia,Asia,15,130,85,40,36,84,7.8,5,medium,no,6/22/2024
+France,Europe,32,139,60,99,35.9,67,9.5,5,low,no,10/12/2023
+Ghana,Africa,30,112,58,84,36.5,103,4.3,5,low,no,4/8/2020
+Philippines,Asia,18,108,71,105,36.3,77,15.6,4,low,no,2/8/2021
+Pakistan,Asia,37,138,91,81,36.7,89,12.3,3,medium,no,9/15/2024
+Philippines,Asia,38,99,71,99,37.2,83,2.1,4,low,no,2/11/2024
+Australia,Oceania,23,95,97,68,35.5,85,9.9,7,medium,no,2/20/2023
+Kenya,Africa,35,133,92,89,37.4,89,9.3,3,medium,no,12/1/2023
+Philippines,Asia,25,120,81,105,36.4,74,3.4,5,low,no,2/16/2023
+Mexico,North America,29,139,82,95,36.9,98,3,4,low,no,1/14/2022
+Mexico,North America,23,81,81,101,36.9,63,12.3,4,low,no,12/7/2023
+Ethiopia,Africa,41,95,80,62,37,70,4.9,2,medium,no,12/6/2020
+Germany,Europe,26,120,74,72,36.6,98,6.6,4,low,no,3/21/2025
+Argentina,South America,29,128,75,73,36.7,89,13.4,6,low,no,6/4/2024
+South Africa,Africa,24,135,65,82,36.7,112,20.2,3,medium,no,7/22/2023
+Indonesia,Asia,39,123,51,131,36.3,83,1.8,4,low,no,1/8/2022
+United States,North America,39,123,91,79,35.7,102,3.7,7,medium,no,5/22/2021
+United Kingdom,Europe,38,113,80,56,36,60,5.4,4,low,no,5/19/2022
+Saudi Arabia,Middle East,34,149,78,106,36.5,65,5.6,4,medium,yes,1/25/2023
+Kenya,Africa,24,100,83,130,36.2,93,7.3,4,low,no,4/3/2023
+Japan,Asia,33,126,68,52,36.2,61,2.1,6,low,no,10/4/2022
+France,Europe,28,102,66,149,37.5,80,2.6,5,medium,no,1/13/2023
+United Kingdom,Europe,36,130,75,102,37,96,15.5,2,low,no,1/21/2024
+United States,North America,35,101,94,121,36.5,88,8.7,1,medium,no,12/27/2020
+Russia,Europe,24,133,64,134,36.9,82,2.5,5,low,no,7/2/2022
+Nigeria,Africa,34,122,50,119,36.4,77,7.6,3,low,no,7/11/2024
+Turkey,Europe,32,151,72,87,36.7,84,16,3,medium,no,3/16/2023
+Australia,Oceania,15,115,92,127,36.8,89,0.3,6,high,no,7/10/2023
+Turkey,Europe,33,128,57,98,36.4,74,6.3,3,low,no,3/15/2023
