@@ -32,9 +32,13 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 - Correlation analysis between systolic/diastolic pressure, sugar, and temperature.
 - Age-group risk distribution.
 - Visualization of maternal risk distribution globally.
+
+
 ![Exploratory Analysis](./Images/Exploratory%201.png)
 
-  ![Maternal Health Dashboard](%20Mission%201-%20Maternal%20Health%20Analytics/Images/Exploratory%201.png)
+![Exploratory Analysis](./Images/Exploratory%202.png)
+
+
 ---
 
 ## 🤖 Predictive Modeling
