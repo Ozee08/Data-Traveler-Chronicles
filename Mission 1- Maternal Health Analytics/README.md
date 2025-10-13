@@ -29,7 +29,7 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 
 ## 🔍 Exploratory Data Analysis
 - Statistical summary of health indicators.
-- Complication Rate by Region.
+- Correlation analysis between systolic/diastolic pressure, sugar, and temperature.
 - Age-group risk distribution.
 - Visualization of maternal risk distribution globally.
 
@@ -52,10 +52,11 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Exploratory Analysis](./Images/Exploratory%201.png)
+![Exploratory Analysis](./Images/Exploratory%205.png)
 
 ![Exploratory Analysis](./Images/Exploratory%202.png)
 
+![Exploratory Analysis](./Images/Exploratory%201.png)
 
 ---
 
@@ -64,7 +65,26 @@ Two models were trained and evaluated:
 1. **Logistic Regression** – Accuracy: 86%
 2. **Decision Tree Classifier** – Accuracy: 82%
 
-The Logistic Regression model was selected for interpretability and performance.
+```python
+from sklearn.metrics import ConfusionMatrixDisplay
+fig, ax = plt.subplots(1, 2, figsize=(10,4))
+ConfusionMatrixDisplay.from_predictions(y_test, y_pred_lr, ax=ax[0])
+ax[0].set_title("Logistic Regression")
+ConfusionMatrixDisplay.from_predictions(y_test, y_pred_dt, ax=ax[1])
+ax[1].set_title("Decision Tree")
+plt.tight_layout()
+plt.show()
+```
+![Exploratory Analysis](./Images/Exploratory%202.png)
+
+```python
+plt.figure(figsize=(12,6))
+plot_tree(dt, feature_names=features, class_names=['No','Yes'], filled=True, fontsize=7)
+plt.title("Decision Tree (max_depth=5)")
+plt.show()
+```
+![Exploratory Analysis](./Images/Exploratory%206.png)
+*The Logistic Regression model was selected for interpretability and performance.*
 
 ---
 
