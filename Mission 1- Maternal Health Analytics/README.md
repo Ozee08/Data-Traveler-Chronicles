@@ -29,10 +29,28 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 
 ## 🔍 Exploratory Data Analysis
 - Statistical summary of health indicators.
-- Correlation analysis between systolic/diastolic pressure, sugar, and temperature.
+- Complication Rate by Region.
 - Age-group risk distribution.
 - Visualization of maternal risk distribution globally.
 
+```python
+# Complication Rate by Region
+comp_rate = df.groupby('Region')['Complication'].apply(lambda x: (x=='yes').mean()).reset_index(name='Rate')
+plt.figure(figsize=(10,5))
+sns.barplot(x='Region', y='Rate', data=comp_rate)
+plt.xticks(rotation=45)
+plt.title('Complication Rate by Region')
+plt.show()
+
+#  Age and Risk Level Distribution
+fig, axes = plt.subplots(1, 2, figsize=(14,5))
+sns.histplot(df['Age'], bins=20, ax=axes[0])
+axes[0].set_title('Age Distribution')
+sns.countplot(x='RiskLevel', data=df, order=['low','medium','high'], ax=axes[1])
+axes[1].set_title('Risk Level Counts')
+plt.tight_layout()
+plt.show()
+```
 
 ![Exploratory Analysis](./Images/Exploratory%201.png)
 
