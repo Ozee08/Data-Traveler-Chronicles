@@ -131,5 +131,13 @@ This project reminds us that **the smallest insights can have the biggest impact
 
 ---
 
+# Author
+
+**Duru Chukwuma**
+
+📧 chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
 
 
