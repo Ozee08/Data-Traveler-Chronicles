@@ -85,7 +85,7 @@ ax[1].set_title("Decision Tree")
 plt.tight_layout()
 plt.show()
 ```
-![Exploratory Analysis](./Images/Exploratory%204.png)
+![Logistic Regression](./Images/Exploratory%204.png)
 
 ```python
 plt.figure(figsize=(12,6))
@@ -93,7 +93,7 @@ plot_tree(dt, feature_names=features, class_names=['No','Yes'], filled=True, fon
 plt.title("Decision Tree (max_depth=5)")
 plt.show()
 ```
-![Exploratory Analysis](./Images/Exploratory%206.png)
+![Decision Tree](./Images/Exploratory%206.png)
 *The Logistic Regression model was selected for interpretability and performance.*
 
 ---
@@ -108,7 +108,7 @@ Key visuals included:
 - **Global Distribution of Risks (Pie Chart)**  
 - **Geographical Risk Map**
 
-![Maternal Health Dashboard](visuals/Maternal_Health_Dashboard.png)
+![Power BI](./Images/Maternal%20Health%20Risks%20Globally.png)
 
 ---
 
@@ -131,16 +131,5 @@ This project reminds us that **the smallest insights can have the biggest impact
 
 ---
 
-## 👤 Author
-**Duru Chukwuma**  
-Data Analyst | Environmental Health Science Student  
-Federal University of Technology Owerri (FUTO)  
-📍 Nigeria  
-📧 [chukwuduru588@gmail.com](mailto:chukwuduru588@gmail.com)  
-🔗 [linkedin.com/in/duruchukwuma](https://linkedin.com/in/duruchukwuma)
 
----
-
-## 🏷️ License
-MIT License © 2025 Duru Chukwuma
 
