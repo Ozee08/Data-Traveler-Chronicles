@@ -56,7 +56,7 @@ plt.show()
 
 ![Exploratory Analysis](./Images/Exploratory%202.png)
 
-![Exploratory Analysis](./Images/Exploratory%201.png)
+![Exploratory Analysis](./Images/Exploratory%207.png)
 
 ---
 
@@ -75,7 +75,7 @@ ax[1].set_title("Decision Tree")
 plt.tight_layout()
 plt.show()
 ```
-![Exploratory Analysis](./Images/Exploratory%202.png)
+![Exploratory Analysis](./Images/Exploratory%204.png)
 
 ```python
 plt.figure(figsize=(12,6))
