@@ -4,14 +4,14 @@
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 **Mission 1** of *The Data Traveler Chronicles* explores **Global Maternal Health Risks** — understanding how physiological indicators influence health outcomes among mothers worldwide.
 
 Using **Python** for data analysis and **Power BI** for storytelling visuals, this project demonstrates how data can reveal patterns capable of shaping public health decisions globally.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze global maternal health datasets to uncover patterns in blood pressure, body temperature, and blood sugar.
 - Identify high, medium, and low-risk profiles.
 - Develop predictive models to estimate maternal risk.
@@ -19,7 +19,7 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **Python** (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - **Power BI**
 - **Excel** (for cleaning & preprocessing)
@@ -70,7 +70,7 @@ plt.show()
 
 ---
 
-## 🤖 Predictive Modeling
+##  Predictive Modeling
 Two models were trained and evaluated:
 1. **Logistic Regression** – Accuracy: 86%
 2. **Decision Tree Classifier** – Accuracy: 82%
@@ -119,7 +119,7 @@ Key visuals included:
 
 ---
 
-## 🧠 Reflections
+##  Reflections
 Behind every row of data lies a story — a heartbeat, a mother, a future.
 Data doesn’t just inform; it protects.  
 This project reminds us that **the smallest insights can have the biggest impact**.
