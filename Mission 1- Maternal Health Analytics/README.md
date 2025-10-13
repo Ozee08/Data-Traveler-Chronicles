@@ -33,7 +33,7 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 - Age-group risk distribution.
 - Visualization of maternal risk distribution globally.
 
-  ![Maternal Health Dashboard](Mission%201-%20Maternal%20Health%20Analytics/Images/Exploratory%201.png)
+  ![Maternal Health Dashboard](%20Mission%201-%20Maternal%20Health%20Analytics/Images/Exploratory%201.png)
 ---
 
 ## 🤖 Predictive Modeling
