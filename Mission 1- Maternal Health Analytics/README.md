@@ -34,14 +34,6 @@ Using **Python** for data analysis and **Power BI** for storytelling visuals, th
 - Visualization of maternal risk distribution globally.
 
 ```python
-# Complication Rate by Region
-comp_rate = df.groupby('Region')['Complication'].apply(lambda x: (x=='yes').mean()).reset_index(name='Rate')
-plt.figure(figsize=(10,5))
-sns.barplot(x='Region', y='Rate', data=comp_rate)
-plt.xticks(rotation=45)
-plt.title('Complication Rate by Region')
-plt.show()
-
 #  Age and Risk Level Distribution
 fig, axes = plt.subplots(1, 2, figsize=(14,5))
 sns.histplot(df['Age'], bins=20, ax=axes[0])
@@ -51,11 +43,29 @@ axes[1].set_title('Risk Level Counts')
 plt.tight_layout()
 plt.show()
 ```
-
-![Exploratory Analysis](./Images/Exploratory%205.png)
-
 ![Exploratory Analysis](./Images/Exploratory%202.png)
 
+```python
+#  Correlation Heatmap
+num_cols = ['Age','SystolicBP','DiastolicBP','BloodSugar_mg_dL','BodyTemp_C','HeartRate_bpm','FacilityDistance_km','AntenatalVisits']
+corr = df[num_cols].corr()
+plt.figure(figsize=(7,5))
+sns.heatmap(corr, annot=True, cmap='vlag')
+plt.title('Correlation Matrix of Vital Signs')
+plt.show()
+```
+![Exploratory Analysis](./Images/Exploratory%205.png)
+
+```python
+ # Complication Rate by Region
+comp_rate = df.groupby('Region')['Complication'].apply(lambda x: (x=='yes').mean()).reset_index(name='Rate')
+plt.figure(figsize=(8,4))
+sns.barplot(x='Region', y='Rate', data=comp_rate)
+plt.xticks(rotation=45)
+plt.title('Complication Rate by Region')
+plt.show()
+![Exploratory Analysis](./Images/Exploratory%207.png)
+```
 ![Exploratory Analysis](./Images/Exploratory%207.png)
 
 ---
