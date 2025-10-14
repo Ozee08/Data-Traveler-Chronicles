@@ -112,7 +112,7 @@ Key visuals included:
 
 ---
 
-## 💡 Insights
+##  Insights
 - 63.9% of mothers globally fall under **low-risk**, 30.5% **medium**, and 5.6% **high-risk**.
 - **Age group 21–30** exhibits the most volatile changes in blood sugar and pressure.
 - Predictive monitoring could reduce high-risk cases by ~40%.
@@ -126,7 +126,7 @@ This project reminds us that **the smallest insights can have the biggest impact
 
 ---
 
-## 🔮 Next Mission
+##  Next Mission
 **Mission 2:** “The Company That Predicted Its Fall” — A business analytics case exploring early-warning signals of financial instability.
 
 ---
