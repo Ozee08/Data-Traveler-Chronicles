@@ -234,3 +234,13 @@ Industries with high asset turnover (like Tech and Retail) masked decline longer
 
 ---
 
+
+ # Author
+
+ **Duru Chukwuma**
+
+ chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
+
