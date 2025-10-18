@@ -195,5 +195,5 @@ ORDER BY risk_level DESC, avg_income_decline ASC;
  *Ranking by long-term financial risk.*
 
  ---
-
- 
+## Dashboard Preview
+ ![Excel Dashboard](./Dashboard/Companies%20by%20Fall.png)
