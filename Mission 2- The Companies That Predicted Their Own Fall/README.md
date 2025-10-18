@@ -195,5 +195,42 @@ ORDER BY risk_level DESC, avg_income_decline ASC;
  *Ranking by long-term financial risk.*
 
  ---
+ 
 ## Dashboard Preview
  ![Excel Dashboard](./Dashboard/Companies%20by%20Fall.png)
+
+### Interactive Features
+
+- Filter by `Company_Name` or `Year`
+
+- Highlight companies that shifted from *Stable* → *Declining* → *Collapsed*
+
+- Conditional formatting instantly shows negative vs positive patterns
+
+### Key Insights
+
+- Over **60%** of companies with higher **debt growth** than **asset change** entered a decline phase.
+
+Early decline in **income growth** preceded collapse by 2–3 years on average.
+
+Industries with high asset turnover (like Tech and Retail) masked decline longer than heavy industries (like Manufacturing).
+
+---
+
+## Insights Summary
+
+| Indicator            | Insight                                                                    |
+| -------------------- | -------------------------------------------------------------------------- |
+| **Income Growth**    | Consistent negative income preceded collapse.                              |
+| **Debt Growth**      | Surpassing asset growth was a red flag.                                    |
+| **Asset Management** | Companies with slower asset growth failed to offset rising debt.           |
+| **Time Lag**         | On average, decline began **2 years** before collapse status was recorded. |
+
+---
+
+## Summary Quote
+
+“The fall of a company doesn’t begin with bankruptcy — it begins with a line of red in its financials.”
+
+---
+
