@@ -1,5 +1,5 @@
 # 🌍 Data Traveler Chronicles — Mission 3
-# **The Mind Within Data**: Mental Health & Lifestyle Insights 
+## **The Mind Within Data**: Mental Health & Lifestyle Insights 
 
 ---
 
