@@ -1,4 +1,4 @@
-# 🧠 Mission 3 - The Mind Within Data: Mental Health & Lifestyle Insights 
+# Mission 3 - 🧠 The Mind Within Data: Mental Health & Lifestyle Insights 
 
 ---
 
