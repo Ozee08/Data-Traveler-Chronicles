@@ -94,15 +94,19 @@ This project aims to:
 
 
 ##  Conclusion
-Tiny lifestyle habits shape emotional wellbeing more than we notice.  
-Data reveals that balance — not excess — is the true path to improved mental health.
+#### Tiny lifestyle habits shape emotional wellbeing more than we notice.  
+#### Data reveals that balance — not excess — is the true path to improved mental health.
 
 ---
 
-## 📎 Author
-**Chukwuma Duru**  
-Data Analyst | Health Insights | Data Storyteller  
-*The Data Traveler Chronicles continues…*  
+ ## Author
+
+ **Duru Chukwuma**
+
+ chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
 
  *This is a part of the Data Traveler Chronicles series — discovering the world, one dataset at a time.*
 
