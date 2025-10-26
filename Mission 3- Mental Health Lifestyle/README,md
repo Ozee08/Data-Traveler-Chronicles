@@ -1,1 +1,92 @@
+# 🧠 Mental Health & Lifestyle Insights Dashboard  
+### 📌 Data Traveler Chronicles — Mission 3
+
+---
+
+## 🧭 Upline Narrative — A Data Traveler’s Journey
+
+As a **Data Traveler**, I ventured into the unseen territories of mental wellness—guided by numbers, patterns, and human stories. This mission explores how **sleep, stress, exercise**, and **mental health conditions** shape happiness and overall well-being.
+
+Where others saw ordinary survey responses…  
+I saw a map to healthier living.
+
+---
+
+## 🔍 Project Overview
+
+This analysis explores mental health from a lifestyle perspective using:
+
+- **Python** for data cleaning and preprocessing
+- **Excel** for dashboard creation and visual storytelling
+
+The dashboard uncovers relationships between:
+✅ Stress levels  
+✅ Sleep duration  
+✅ Exercise routines  
+✅ Mental health conditions  
+✅ Happiness scores
+
+---
+
+## 🛠 Tools & Techniques
+
+| Phase | Tools Used | Description |
+|------|------------|-------------|
+| Data Cleaning | Python (Pandas) | Removed nulls, standardized values, formatted categories |
+| Exploratory Analysis | Python | Identified patterns across lifestyle variables |
+| Dashboard Creation | Excel | Visualized key metrics and correlations |
+| Data Storytelling | Interpretation | Insights connected to well-being outcomes |
+
+---
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|--------|------|
+| Average Sleep Hours | **6.5 hours** |
+| Average Stress Score | **55/100** |
+| Total Respondents | **3,000** |
+| Average Happiness Score | **5.4/10** |
+
+---
+
+## ✅ Insights From the Data
+
+📌 **Sleep & Stress**
+- Sleeping **7–8 hours** reduces stress by **~25%** compared to <6 hours
+
+📌 **Work Hours**
+- Working **45+ hrs/week** is linked with **higher stress** and **less sleep**
+
+📌 **Exercise & Stress Reduction**
+- **Moderate exercise** lowers stress more effectively than intense daily exercise
+
+📌 **Mental Health & Sleep**
+- People with diagnosed mental health conditions sleep **~1.3 hours less**
+
+📌 **Sleep & Happiness**
+- Respondents sleeping **7+ hours** recorded **the highest happiness scores**
+
+---
+
+## 🎯 Project Value
+
+This project aims to:
+- Identify vulnerable groups for mental health decline
+- Provide evidence-backed lifestyle improvement guidance
+- Assist institutions in wellness initiative planning
+
+---
+
+## 👤 Role & Responsibilities
+
+- Lead Data Analyst / Data Traveler  
+- Python Cleaning & Feature Refinement  
+- Excel Dashboard Design  
+- Insight Derivation & Data Storytelling  
+
+---
+
+## 📁 Project Structure
+
 
