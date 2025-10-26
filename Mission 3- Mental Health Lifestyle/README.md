@@ -1,5 +1,4 @@
-# 🌍 Data Traveler Chronicles — Mission 3
-## **The Mind Within Data**: Mental Health & Lifestyle Insights 
+# 🧠 Mission 3 - The Mind Within Data: Mental Health & Lifestyle Insights 
 
 ---
 
@@ -51,7 +50,7 @@ The dashboard uncovers relationships between:
 ---
 
 
-![Mental Health Dashboard](./images/Mental%20Health%20Issues.png)
+![Mental Health Dashboard](./Dashboard/Mental%20Health%20Issues.png)
 
 ---
 ##  Insights From the Data
@@ -83,10 +82,6 @@ This project aims to:
 ---
 
   
-
-
-
----
 
 ##  Mission Impact — Data Traveler Chronicles
 
