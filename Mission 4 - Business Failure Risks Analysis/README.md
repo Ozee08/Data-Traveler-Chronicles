@@ -32,7 +32,7 @@ All values were standardized for industry comparability and temporal analysis (a
 
 ##  Dashboard Overview  
 
-![Business Failure Dashboard](.Images/Redefined%20Business%20Fail.png)
+![Business Failure Dashboard](./Images/Redefined%20Business%20Fail.png)
 
 The Power BI visualization presents key insights across **500 businesses**, focusing on failure drivers and resilience indicators.  
 Here’s a breakdown of the visuals and the stories they tell:
