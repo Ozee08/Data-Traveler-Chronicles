@@ -117,7 +117,15 @@ Each mission turned raw data into instrumented wisdom that decision-makers can u
 ## 🧭 Author
 
 **Duru Chukwuma**  
+
+
 Business Intelligence Analyst | Data Traveler Chronicles  
+
+chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
+
 📊 *Solving tomorrow’s problems — today, through data.*
 
 ---
