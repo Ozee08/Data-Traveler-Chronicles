@@ -88,6 +88,16 @@ Here’s a breakdown of the visuals and the stories they tell:
 
 ---
 
+ ## Author
+
+ **Duru Chukwuma**
+
+ chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
+
+ *This is a part of the Data Traveler Chronicles series — discovering the world, one dataset at a time.*
 
 
 --- 
